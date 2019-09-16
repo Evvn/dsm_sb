@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>phone-call-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.522,13.471 L12.188,15.771 L6.229,9.812 L8.529,7.478 C8.81348509,7.18860876 8.89487322,6.75598742 8.735,6.383 L6.34,0.793 C6.14431781,0.337387139 5.64431265,0.0939803709 5.165,0.221 L0.765,1.383 C0.31219832,1.5001582 0.00108872945,1.9155248 0.016,2.383 C0.295838128,7.49688846 2.42213859,12.3354301 6,16 C9.6657405,19.5783789 14.5058438,21.7043856 19.621,21.983 C20.0884752,21.9979113 20.5038418,21.6868017 20.621,21.234 L21.783,16.834 C21.9100196,16.3546874 21.6666129,15.8546822 21.211,15.659 L15.621,13.264 C15.2467157,13.1025674 14.8119082,13.1844648 14.522,13.471 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-609.000000, -5398.000000)">
+            <g id="Solo/Nucleo/24px/phone-call" transform="translate(609.000000, 5398.000000)">
+                <g id="phone">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-21.000000, -21.000000)" id="Colour">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

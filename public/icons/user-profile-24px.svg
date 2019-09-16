@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>user-profile-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,15 C14.4852814,15 16.5,12.9852814 16.5,10.5 C16.5,8.01471863 14.4852814,6 12,6 C9.51471863,6 7.5,8.01471863 7.5,10.5 C7.5,12.9852814 9.51471863,15 12,15 Z M12,0 C5.4,0 0,5.4 0,12 C0,18.6 5.4,24 12,24 C18.6,24 24,18.6 24,12 C24,5.4 18.6,0 12,0 Z M18,18.6 C17.1,17.55 15.9,16.5 13.5,16.5 L10.5,16.5 C8.1,16.5 6.9,17.55 6,18.6 C4.2,16.95 3,14.7 3,12 C3,7.05 7.05,3 12,3 C16.95,3 21,7.05 21,12 C21,14.7 19.8,16.95 18,18.6 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-608.000000, -6674.000000)">
+            <g id="Solo/Nucleo/24px/user-profile" transform="translate(608.000000, 6674.000000)">
+                <g id="circle-08-copy">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-20.000000, -20.000000)" id="Colour">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

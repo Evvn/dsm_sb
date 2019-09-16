@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="18px" viewBox="0 0 14 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>location-pin-16px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7,0 C3.57777778,0 0,2.66086957 0,7.04347826 C0,11.1913043 6.22222222,17.5304348 6.45555556,17.7652174 C6.61111111,17.9217391 6.76666667,18 7,18 C7.23333333,18 7.38888889,17.9217391 7.54444444,17.7652174 C7.77777778,17.5304348 14,11.1913043 14,7.04347826 C14,2.66086957 10.4222222,0 7,0 Z M7,9.39130435 C5.67777778,9.39130435 4.66666667,8.37391304 4.66666667,7.04347826 C4.66666667,5.71304348 5.67777778,4.69565217 7,4.69565217 C8.32222222,4.69565217 9.33333333,5.71304348 9.33333333,7.04347826 C9.33333333,8.37391304 8.32222222,9.39130435 7,9.39130435 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-319.000000, -4120.000000)">
+            <g id="Solo/Nucleo/16px/location-pin" transform="translate(319.000000, 4120.000000)">
+                <g id="pin-3">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-25.000000, -24.000000)" id="Colour">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

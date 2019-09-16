@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>chevron-right-16px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.37456909,14.9745691 L1.10710678,8.70710678 C0.716582489,8.31658249 0.716582489,7.68341751 1.10710678,7.29289322 L7.37456909,1.02543091 C7.7791951,0.620804899 8.43167001,0.609558674 8.85,1 C9.25017653,1.37349809 9.27180367,2.00068529 8.89830558,2.40086181 C8.89053515,2.40918727 8.88262182,2.41737818 8.87456909,2.42543091 L3.3,8 L8.87456909,13.5745691 C9.26163632,13.9616363 9.26163632,14.5891963 8.87456909,14.9762635 C8.86651637,14.9843162 8.85832546,14.9922296 8.85,15 C8.43167001,15.3904413 7.7791951,15.3791951 7.37456909,14.9745691 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-321.000000, -1560.000000)">
+            <g id="Solo/Nucleo/16px/chevron-right" transform="translate(321.000000, 1560.000000)">
+                <g id="right-arrow">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero" transform="translate(5.000000, 8.000000) rotate(-180.000000) translate(-5.000000, -8.000000) "></g>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-27.000000, -24.000000)" id="Colour">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

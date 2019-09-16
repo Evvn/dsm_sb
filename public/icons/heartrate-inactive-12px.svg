@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>heartrate-inactive-12px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.1069621,6.25913162 C10.4462472,9.01781826 7.02894432,11.7358209 6.82419864,11.8922978 C6.72588821,11.9501942 6.61457806,11.9861839 6.50001798,11.9971372 C6.380583,12.0112202 6.26114802,11.9728833 6.17421236,11.8922978 C5.96946668,11.7358209 2.5521638,9.01781826 0.892261332,6.25913162 L12.1069621,6.25913162 Z M3.48489411,5.21621349 L0.357647615,5.21621349 C0.136652279,4.7209643 0.0147798511,4.18972544 7.66443296e-05,3.65144512 C-0.00634470309,2.68128873 0.390959412,1.74868678 1.10350687,1.06253584 C1.81524185,0.37638491 2.78372141,-0.00541857387 3.79120015,5.81154488e-05 C4.80924116,0.00709957314 5.78259562,0.401421204 6.50001798,1.09539598 C7.21662786,0.401421204 8.1907948,0.00709957314 9.20802333,5.81154488e-05 C10.2155021,-0.00541857387 11.1831691,0.37638491 11.8957166,1.06253584 C12.6082641,1.74868678 13.0055682,2.68128873 12.999941,3.65144512 C12.9836311,4.18972544 12.8625712,4.7209643 12.6407634,5.21621349 L3.48489411,5.21621349 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-173.000000, -3739.000000)">
+            <g id="Solo/Nucleo/12px/heartrate-inactive" transform="translate(173.000000, 3739.000000)">
+                <g id="heartrate-inactive-copy">
+                    <g id="heartrate-inactive">
+                        <g id="Colour/Default-Colour">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#555555" xlink:href="#path-1"></use>
+                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                                <g transform="translate(-26.000000, -26.000000)" id="Colour">
+                                    <rect x="0" y="0" width="64" height="64"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

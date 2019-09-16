@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>zoom-search-12px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.707,11.293 L10.167,8.753 C11.5883065,6.60562225 11.152234,3.7307675 9.15806181,2.10146684 C7.16388961,0.472166171 4.25981011,0.618012909 2.43891151,2.43891151 C0.618012909,4.25981011 0.472166171,7.16388961 2.10146684,9.15806181 C3.7307675,11.152234 6.60562225,11.5883065 8.753,10.167 L11.293,12.707 C11.6853789,13.0859722 12.3090848,13.0805524 12.6948186,12.6948186 C13.0805524,12.3090848 13.0859722,11.6853789 12.707,11.293 Z M3,6 C3,4.34314575 4.34314575,3 6,3 C7.65685425,3 9,4.34314575 9,6 C9,7.65685425 7.65685425,9 6,9 C4.34314575,9 3,7.65685425 3,6 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-174.000000, -6811.000000)">
+            <g id="Solo/Nucleo/12px/zoom-search" transform="translate(173.000000, 6810.000000)">
+                <g id="zoom">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-25.000000, -26.000000)" id="Colour">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

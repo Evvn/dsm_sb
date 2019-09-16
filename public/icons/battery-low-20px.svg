@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>battery-low-20px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.125,3.33333333 L0.875,3.33333333 C0.391750844,3.33333333 0,3.70642938 0,4.16666667 L0,19.1666667 C0,19.626904 0.391750844,20 0.875,20 L13.125,20 C13.6082492,20 14,19.626904 14,19.1666667 L14,4.16666667 C14,3.70642938 13.6082492,3.33333333 13.125,3.33333333 Z M10.5,17.0833333 L3.5,17.0833333 L3.5,15.4166667 L10.5,15.4166667 L10.5,17.0833333 Z M3.5,0 L10.5,0 L10.5,1.66666667 L3.5,1.66666667 L3.5,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-466.000000, -790.000000)">
+            <g id="Solo/Nucleo/20px/battery-low" transform="translate(466.000000, 790.000000)">
+                <g id="battery-low">
+                    <g>
+                        <g id="Colour/Default-Colour">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask" fill-rule="nonzero"></g>
+                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                                <g transform="translate(-25.000000, -22.000000)" id="Colour">
+                                    <rect x="0" y="0" width="64" height="64"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

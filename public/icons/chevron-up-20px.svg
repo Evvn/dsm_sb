@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="10px" viewBox="0 0 20 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>chevron-up-20px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.5487866,9.22594319 L10,2.75548422 L2.4512134,9.22594319 C1.95246559,9.65344597 1.20159322,9.59569968 0.774078478,9.09696213 C0.346610005,8.59827856 0.404341248,7.84748399 0.903024818,7.42001551 C0.90305528,7.4199894 0.903085743,7.41996329 0.903116208,7.41993718 L9.22592152,0.287141074 C9.67181926,-0.0957136912 10.3281807,-0.0957136912 10.7740785,0.287141074 L19.0968838,7.41993718 C19.5956106,7.84735518 19.6534179,8.59814391 19.2259999,9.09687074 C19.2259737,9.09690121 19.2259476,9.09693167 19.2259215,9.09696213 C18.7984068,9.59569968 18.0475344,9.65344597 17.5487866,9.22594319 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-463.000000, -1691.000000)">
+            <g id="Solo/Nucleo/20px/chevron-up" transform="translate(463.000000, 1691.000000)">
+                <g id="ctrl-up">
+                    <g>
+                        <g id="Colour/Default-Colour">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask" fill-rule="nonzero"></g>
+                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                                <g transform="translate(-22.000000, -27.000000)" id="Colour">
+                                    <rect x="0" y="0" width="64" height="64"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

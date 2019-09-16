@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>clock-time-16px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.992,0 C3.576,0 0,3.584 0,8 C0,12.416 3.576,16 7.992,16 C12.416,16 16,12.416 16,8 C16,3.584 12.416,0 7.992,0 Z M8,14.4 C4.464,14.4 1.6,11.536 1.6,8 C1.6,4.464 4.464,1.6 8,1.6 C11.536,1.6 14.4,4.464 14.4,8 C14.4,11.536 11.536,14.4 8,14.4 Z M7.8,4 C7.46862915,4 7.2,4.26862915 7.2,4.6 L7.2,8.8 L10.9058697,11.0235218 C11.1793394,11.1876036 11.5339691,11.1002907 11.7,10.828 C11.8636994,10.5595331 11.7787684,10.209193 11.5103015,10.0454937 C11.5083475,10.0443022 11.5063863,10.0431226 11.5044181,10.0419548 L8.4,8.2 L8.4,4.6 C8.4,4.26862915 8.13137085,4 7.8,4 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-318.000000, -1816.000000)">
+            <g id="Solo/Nucleo/16px/clock-time" transform="translate(318.000000, 1816.000000)">
+                <g id="ic_access_time_24px">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Shape" fill-rule="nonzero"></g>
+                    <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g transform="translate(-24.000000, -24.000000)" id="Colour">
+                            <rect x="0" y="0" width="64" height="64"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

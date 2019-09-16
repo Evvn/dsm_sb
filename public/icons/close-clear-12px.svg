@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>close-clear-12px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.6367679,0.351132698 C12.1687343,-0.116759504 11.4100519,-0.116759504 10.9420184,0.351132698 L6.99519385,4.29795726 L3.04836929,0.351132698 C2.57808364,-0.103084376 1.83054106,-0.0965884329 1.36821988,0.365732742 C0.905898709,0.828053917 0.899402766,1.5755965 1.35361984,2.04588214 L5.3004444,5.99270671 L1.35361984,9.93953127 C1.04204892,10.2404565 0.917092897,10.6860815 1.02677871,11.1051297 C1.13646453,11.524178 1.46372252,11.851436 1.88277081,11.9611218 C2.3018191,12.0708077 2.74744403,11.9458516 3.04836929,11.6342807 L6.99519385,7.68745615 L10.9420184,11.6342807 C11.4123041,12.0884978 12.1598466,12.0820018 12.6221678,11.6196807 C13.084489,11.1573595 13.0909849,10.4098169 12.6367679,9.93953127 L8.68994329,5.99270671 L12.6367679,2.04588214 C13.1046601,1.57784862 13.1046601,0.819166225 12.6367679,0.351132698 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-174.000000, -1947.000000)">
+            <g id="Solo/Nucleo/12px/close-clear" transform="translate(173.000000, 1947.000000)">
+                <g id="e-remove">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-25.000000, -26.000000)" id="Colour">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

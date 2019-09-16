@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>status-warning-16px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,12.0855615 C7.51564332,12.0855615 7.12299465,11.6929128 7.12299465,11.2085561 C7.12299465,10.7241995 7.51564332,10.3315508 8,10.3315508 C8.48435668,10.3315508 8.87700535,10.7241995 8.87700535,11.2085561 C8.87700535,11.6929128 8.48435668,12.0855615 8,12.0855615 Z M8,16 C3.581722,16 0,12.418278 0,8 C0,3.581722 3.581722,0 8,0 C12.418278,0 16,3.581722 16,8 C16,12.418278 12.418278,16 8,16 Z M8,14.1176471 C11.3786832,14.1176471 14.1176471,11.3786832 14.1176471,8 C14.1176471,4.62131682 11.3786832,1.88235294 8,1.88235294 C4.62131682,1.88235294 1.88235294,4.62131682 1.88235294,8 C1.88235294,11.3786832 4.62131682,14.1176471 8,14.1176471 Z M7.05882353,4.79144385 C7.05882353,4.27164644 7.48020259,3.85026738 8,3.85026738 C8.51979741,3.85026738 8.94117647,4.27164644 8.94117647,4.79144385 L8.94117647,8.64171123 C8.94117647,9.16150864 8.51979741,9.5828877 8,9.5828877 C7.48020259,9.5828877 7.05882353,9.16150864 7.05882353,8.64171123 L7.05882353,4.79144385 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-318.000000, -5912.000000)">
+            <g id="Solo/Nucleo/16px/status-warning" transform="translate(318.000000, 5912.000000)">
+                <g id="c-warning">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-22.588235, -21.647059)" id="Colour">
+                                <rect x="0" y="0" width="60" height="60"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

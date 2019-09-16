@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="21px" viewBox="0 0 24 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>download-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M22.5,21 L1.5,21 C0.672,21 0,20.328 0,19.5 L0,1.5 C0,0.672 0.672,0 1.5,0 L7.5,0 L7.5,3 L3,3 L3,18 L21,18 L21,3 L16.5,3 L16.5,0 L22.5,0 C23.328,0 24,0.672 24,1.5 L24,19.5 C24,20.328 23.328,21 22.5,21 Z M13.5,9 L18,9 L12,15 L6,9 L10.5,9 L10.5,0 L13.5,0 L13.5,9 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-608.000000, -2708.000000)">
+            <g id="Solo/Nucleo/24px/download" transform="translate(608.000000, 2708.000000)">
+                <g id="version-update">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-20.000000, -21.000000)" id="Colour">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

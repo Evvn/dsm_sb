@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="24px" viewBox="0 0 17 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>battery-full-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.46875,4 L1.03125,4 C0.461706352,4 0,4.44771525 0,5 L0,23 C0,23.5522847 0.461706352,24 1.03125,24 L15.46875,24 C16.0382936,24 16.5,23.5522847 16.5,23 L16.5,5 C16.5,4.44771525 16.0382936,4 15.46875,4 Z M12.375,20.5 L4.125,20.5 L4.125,18.5 L12.375,18.5 L12.375,20.5 Z M12.375,17 L4.125,17 L4.125,15 L12.375,15 L12.375,17 Z M12.375,13.5 L4.125,13.5 L4.125,11.5 L12.375,11.5 L12.375,13.5 Z M12.375,10 L4.125,10 L4.125,8 L12.375,8 L12.375,10 Z M4.125,0 L12.375,0 L12.375,2 L4.125,2 L4.125,0 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-612.000000, -402.000000)">
+            <g id="Solo/Nucleo/24px/battery-full" transform="translate(612.000000, 402.000000)">
+                <g id="battery-full">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-24.000000, -20.000000)" id="Colour">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>location-crosshair-12px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6,7.5 C6.82842712,7.5 7.5,6.82842712 7.5,6 C7.5,5.17157288 6.82842712,4.5 6,4.5 C5.17157288,4.5 4.5,5.17157288 4.5,6 C4.5,6.82842712 5.17157288,7.5 6,7.5 Z M6,0 C2.7,0 0,2.7 0,6 C0,9.3 2.7,12 6,12 C9.3,12 12,9.3 12,6 C12,2.7 9.3,0 6,0 Z M6.75,10.425 L6.75,9 L5.25,9 L5.25,10.425 C3.375,10.125 1.875,8.625 1.575,6.75 L3,6.75 L3,5.25 L1.575,5.25 C1.875,3.375 3.375,1.875 5.25,1.575 L5.25,3 L6.75,3 L6.75,1.575 C8.625,1.875 10.125,3.375 10.425,5.25 L9,5.25 L9,6.75 L10.425,6.75 C10.125,8.625 8.625,10.125 6.75,10.425 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-173.000000, -3994.000000)">
+            <g id="Solo/Nucleo/12px/location-crosshair" transform="translate(173.000000, 3994.000000)">
+                <g id="crosshair">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-18.000000, -18.000000)" id="Colour">
+                                <rect x="0" y="0" width="48" height="48"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

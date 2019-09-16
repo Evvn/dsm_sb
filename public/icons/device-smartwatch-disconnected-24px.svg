@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="24px" viewBox="0 0 23 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>device-smartwatch-disconnected-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.6284,9 L22.6284,9 L22.6284,15 L20.6284,15 L20.6284,16.539 L18.6284,14.861 L18.6284,6 C18.6284,5.449 18.1794,5 17.6284,5 L6.8764,5 L4.6954,3.17 C4.8234,3.128 4.9484,3.08 5.0834,3.055 L5.6584,0.757 C5.7694,0.312 6.1694,0 6.6284,0 L16.6284,0 C17.0874,0 17.4874,0.312 17.5984,0.757 L18.1734,3.055 C19.5674,3.313 20.6284,4.532 20.6284,6 L20.6284,9 Z M5.6919,19 L16.7839,19 L4.6919,8.854 L4.6919,18 C4.6919,18.551 5.1409,19 5.6919,19 Z M21.7749,20.607 C22.0289,20.82 22.0619,21.197 21.8489,21.451 L21.3489,22.048 C21.1359,22.302 20.7579,22.335 20.5049,22.122 L18.8629,20.745 C18.6639,20.832 18.4559,20.904 18.2359,20.945 L17.6619,23.243 C17.5509,23.687 17.1509,24 16.6919,24 L6.6919,24 C6.2329,24 5.8329,23.687 5.7209,23.243 L5.1469,20.945 C3.7529,20.687 2.6919,19.468 2.6919,18 L2.6919,7.175 L0.2139,5.096 C-0.0391,4.884 -0.0721,4.506 0.1399,4.252 L0.6409,3.655 C0.8539,3.402 1.2319,3.369 1.4849,3.582 L21.7749,20.607 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-609.000000, -2581.000000)">
+            <g id="Solo/Nucleo/24px/device-smartwatch-disconnected" transform="translate(609.000000, 2581.000000)">
+                <g id="watch-lost">
+                    <g id="Group-5">
+                        <g id="Colour/Default-Colour">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#000000" xlink:href="#path-1"></use>
+                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                                <g transform="translate(-21.000000, -20.000000)" id="Colour">
+                                    <rect x="0" y="0" width="64" height="64"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

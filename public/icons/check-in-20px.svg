@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>check-in-20px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16.7142857,2.5 C17.4252857,2.5 18,3.06 18,3.75 L18,6.25 L15.4285714,6.25 L15.4285714,5 L2.57142857,5 L2.57142857,17.5 L15.4285714,17.5 L15.4285714,16.25 L18,16.25 L18,18.75 C18,19.44 17.4252857,20 16.7142857,20 L1.28571429,20 C0.574714286,20 0,19.44 0,18.75 L0,3.75 C0,3.06 0.574714286,2.5 1.28571429,2.5 L3.85714286,2.5 L3.85714286,0 L6.42857143,0 L6.42857143,2.5 L11.5714286,2.5 L11.5714286,0 L14.1428571,0 L14.1428571,2.5 L16.7142857,2.5 Z M18,11.25 L11.5714286,16.25 L11.5714286,12.5 L5.14285714,12.5 L5.14285714,10 L11.5714286,10 L11.5714286,6.25 L18,11.25 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-464.000000, -1174.000000)">
+            <g id="Solo/Nucleo/20px/check-in" transform="translate(464.000000, 1174.000000)">
+                <g id="check-in">
+                    <g>
+                        <g id="Colour/Default-Colour">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Mask" fill-rule="nonzero"></g>
+                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                                <g transform="translate(-23.000000, -22.000000)" id="Colour">
+                                    <rect x="0" y="0" width="64" height="64"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>message-text-12px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,1.5 L0,12 L3.75,8.25 L10.5,8.25 C11.32875,8.25 12,7.57875 12,6.75 L12,1.5 C12,0.67125 11.32875,0 10.5,0 L1.5,0 C0.67125,0 0,0.67125 0,1.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-173.000000, -4893.000000)">
+            <g id="Solo/Nucleo/12px/message-text" transform="translate(173.000000, 4893.000000)">
+                <g id="customer-support">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Path" fill-rule="nonzero"></g>
+                    <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g transform="translate(-18.750000, -18.750000)" id="Colour">
+                            <rect x="0" y="0" width="48" height="48"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

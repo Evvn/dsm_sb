@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>people-2-12px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10,3.5 C9.4475,3.5 9,3.0525 9,2.5 C9,1.9475 9.4475,1.5 10,1.5 C10.5525,1.5 11,1.9475 11,2.5 C11,3.0525 10.5525,3.5 10,3.5 Z M6,3 C5.1715,3 4.5,2.3285 4.5,1.5 C4.5,0.6715 5.1715,0 6,0 C6.8285,0 7.5,0.6715 7.5,1.5 C7.5,2.3285 6.8285,3 6,3 Z M2,9.5 L3,9.5 L3,10.5 C3,10.776 2.776,11 2.5,11 L1.5,11 C1.224,11 1,10.776 1,10.5 L1,8 L0,8 L0,5 C0,4.4475 0.4475,4 1,4 L2.513,4 C2.1955,4.419 2,4.935 2,5.5 L2,9.5 Z M7,12 L5,12 C4.724,12 4.5,11.776 4.5,11.5 L4.5,8.5 L3,8.5 L3,5.5 C3,4.6715 3.6715,4 4.5,4 L7.5,4 C8.3285,4 9,4.6715 9,5.5 L9,8.5 L7.5,8.5 L7.5,11.5 C7.5,11.776 7.276,12 7,12 Z M2,3.5 C1.4475,3.5 1,3.0525 1,2.5 C1,1.9475 1.4475,1.5 2,1.5 C2.5525,1.5 3,1.9475 3,2.5 C3,3.0525 2.5525,3.5 2,3.5 Z M10,9.5 L10,5.5 C10,4.935 9.8045,4.419 9.487,4 L11,4 C11.5525,4 12,4.4475 12,5 L12,8 L11,8 L11,10.5 C11,10.776 10.776,11 10.5,11 L9.5,11 C9.224,11 9,10.776 9,10.5 L9,9.5 L10,9.5 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-173.000000, -5275.000000)">
+            <g id="Solo/Nucleo/12px/people-2" transform="translate(173.000000, 5275.000000)">
+                <g id="multiple-11">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-18.000000, -18.000000)" id="Colour">
+                                <rect x="0" y="0" width="48" height="48"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

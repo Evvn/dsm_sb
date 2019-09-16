@@ -1,0 +1,7 @@
+{
+  "authToken": "rJJyxqH-H",
+  "dsmHost": "vaultintel.invisionapp.com",
+  "organization": "vault-intel-dsm",
+  "outputDir": ".dsm",
+  "storyPath": "src/stories/**/*.{js,ts}"
+}

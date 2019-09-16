@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>tick-box-16px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2.5,0.75 L15.5,0.75 C16.4664983,0.75 17.25,1.53350169 17.25,2.5 L17.25,15.5 C17.25,16.4664983 16.4664983,17.25 15.5,17.25 L2.5,17.25 C1.53350169,17.25 0.75,16.4664983 0.75,15.5 L0.75,2.5 C0.75,1.53350169 1.53350169,0.75 2.5,0.75 Z M2.5,2.25 C2.36192881,2.25 2.25,2.36192881 2.25,2.5 L2.25,15.5 C2.25,15.6380712 2.36192881,15.75 2.5,15.75 L15.5,15.75 C15.6380712,15.75 15.75,15.6380712 15.75,15.5 L15.75,2.5 C15.75,2.36192881 15.6380712,2.25 15.5,2.25 L2.5,2.25 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-317.000000, -6424.000000)">
+            <g id="Solo/Nucleo/16px/tick-box" transform="translate(317.000000, 6424.000000)">
+                <g id="shape-rectangle">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-23.000000, -24.000000)" id="Colour">
+                                <rect x="0" y="0" width="64" height="64"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="12px" viewBox="0 0 10 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>device-smartwatch-12px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8.775,3 C8.775,2.266 8.2577625,1.6565 7.5781875,1.5275 L7.297875,0.3785 C7.2437625,0.156 7.0487625,0 6.825,0 L1.95,0 C1.7262375,0 1.5312375,0.156 1.477125,0.3785 L1.1968125,1.5275 C0.5172375,1.6565 0,2.266 0,3 L0,9 C0,9.734 0.5172375,10.3435 1.1968125,10.4725 L1.4766375,11.6215 C1.5312375,11.844 1.7262375,12 1.95,12 L6.825,12 C7.0487625,12 7.2437625,11.844 7.297875,11.6215 L7.5777,10.4725 C8.2577625,10.3435 8.775,9.734 8.775,9 L8.775,7.5 L9.75,7.5 L9.75,4.5 L8.775,4.5 L8.775,3 Z M7.8,9 C7.8,9.2755 7.5811125,9.5 7.3125,9.5 L1.4625,9.5 C1.1938875,9.5 0.975,9.2755 0.975,9 L0.975,3 C0.975,2.7245 1.1938875,2.5 1.4625,2.5 L7.3125,2.5 C7.5811125,2.5 7.8,2.7245 7.8,3 L7.8,9 Z" id="path-1"></path>
+    </defs>
+    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-174.000000, -2460.000000)">
+            <g id="Solo/Nucleo/12px/device-smartwatch" transform="translate(174.000000, 2460.000000)">
+                <g id="smartwatch">
+                    <g id="Colour/Default-Colour">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Mask" fill-rule="nonzero"></g>
+                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g transform="translate(-18.750000, -18.000000)" id="Colour">
+                                <rect x="0" y="0" width="48" height="48"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

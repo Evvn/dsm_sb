@@ -27,10 +27,6 @@ h5 {
   @include font-h-5;
 }
 
-// h6 {
-//   @include font-h-6;
-// }
-
 .font-subtitle-1 {
   @include font-subtitle-1;
 }
@@ -58,20 +54,4 @@ h5 {
 // component style mix ins
 button {
   @include font-button-text;
-}
-
-.input-label {
-  @include font-input-field-label;
-}
-
-.input-error-message {
-  @include font-input-field-error-message;
-}
-
-input {
-  @include font-input-field-completed-value;
-}
-
-input::placeholder {
-  @include font-input-field-empty-text;
 }

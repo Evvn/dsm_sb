@@ -5,7 +5,7 @@ import configureStore from "./Store";
 import AppBase from "./App";
 import * as serviceWorker from "./serviceWorker";
 import { ThemeProvider } from "styled-components";
-import Theme from 'sass-extract-loader?{"plugins": ["sass-extract-js"]}!./App.scss'; // eslint-disable-line import/no-webpack-loader-syntax
+import Theme from 'sass-extract-loader?{"plugins": ["sass-extract-js"]}!./_dsmStyles.scss'; // eslint-disable-line import/no-webpack-loader-syntax
 
 console.log(Theme);
 

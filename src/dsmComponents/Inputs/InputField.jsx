@@ -19,16 +19,18 @@ const TextInput = styled.input`
 
   &:active,
   &:focus {
-    border-color: ${props => props.theme.colorPaprikaSelected};
+    border-color: ${props => props.theme.colorCayenneActive};
   }
 `;
 
 const InputLabel = styled.label`
   display: block;
+  color: ${props => props.theme.colorCardomomText};
 `;
 
 const Error = styled.span`
   display: block;
+  color: ${props => props.theme.colorCayenneAlertTermination};
 `;
 
 class InputField extends React.Component {
@@ -39,9 +41,9 @@ class InputField extends React.Component {
 
     return (
       <InputContainer style={style}>
-        <InputLabel className="input-label">{labelText}</InputLabel>
+        <InputLabel className="font-caption-1">{labelText}</InputLabel>
         <TextInput placeholder={placeholder} disabled={disabled} />
-        <Error className="input-error-message">{errorMessage}</Error>
+        <Error className="font-caption-1">{errorMessage}</Error>
       </InputContainer>
     );
   }

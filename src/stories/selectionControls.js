@@ -13,7 +13,7 @@ const Components = styled.div`
 `;
 
 export const SelectionControls = () => {
-  return storiesOf("Selection Controls")
+  return storiesOf("Selection Controls", module)
     .add(
       "radio button",
       () => (

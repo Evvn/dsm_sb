@@ -15,7 +15,7 @@ const Components = styled.div`
 `;
 
 export const Buttons = () => {
-  return storiesOf("Buttons")
+  return storiesOf("Buttons", module)
     .add(
       "link",
       () => (

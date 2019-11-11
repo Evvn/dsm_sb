@@ -5,9 +5,7 @@ import { withProvider } from "./decorators.js";
 import { withA11y } from "@storybook/addon-a11y";
 import React from "react";
 import { ThemeProvider } from "styled-components";
-const Theme = require('sass-extract-loader?{"plugins": ["sass-extract-js"]}!../src/App.scss');
-
-console.log(Theme);
+const Theme = require('sass-extract-loader?{"plugins": ["sass-extract-js"]}!../src/_dsmStyles.scss');
 
 // Option defaults.
 addParameters({

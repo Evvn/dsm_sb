@@ -5,7 +5,7 @@ import styled from "styled-components";
 
 import InputField from "../dsmComponents/Inputs/InputField";
 import SegmentControl from "../dsmComponents/Inputs/SegmentControl";
-import Dropdown from "../dsmComponents/Inputs/Dropdown";
+import SingleSelect from "../dsmComponents/Inputs/SingleSelect";
 
 const Components = styled.div`
   & > * {
@@ -56,14 +56,14 @@ export const Inputs = () => {
       }
     )
     .add(
-      "Dropdown",
+      "Single Select",
       () => (
         <Components>
-          <Dropdown
+          <SingleSelect
             options={["option 1", "option 2", "option 3"]}
             groupName={"firstGroup"}
           />
-          <Dropdown
+          <SingleSelect
             options={["option 1", "option 2"]}
             groupName={"secondGroup"}
           />

@@ -7,18 +7,26 @@
     Colors:
 */
 
-$color-turmeric-brand: #f05e2f;
+$color-saffron-brand: #f05e2f;
 $color-paprika: #d83d03;
 $color-cardomom-text: #555555;
 $color-peppercorn: #252525;
 $color-cayenne-alert-termination: #e0182d;
-$color-oregano-success: #50b83c;
-$color-attention: #ffc100;
-$color-juniper-information: #0091ae;
+$color-turmeric-attention-warning: #ffab00;
 $color-paprika-hover: #cc3802;
-$color-paprika-selected: #b33102;
+$color-paprika-active: #b33102;
 $color-cayenne-hover: #bd1427;
-$color-cayenne-selected: #a71122;
+$color-cayenne-active: #a71122;
+$color-parsley: #008080;
+$color-sage: #77448b;
+$color-acai: #0078a1;
+$color-mint-success: #21b778;
+$color-juniper-information: #02a8ca;
+$color-chia: #737373;
+$color-poppy: #aaaaaa;
+$color-sesame: #d7d7d7;
+$color-flour: #eeeeee;
+$color-salt: #f6f6f6;
 
 /*
     Font Styles:
@@ -28,15 +36,17 @@ $color-cayenne-selected: #a71122;
 $font-h-1-font-size: 56px;
 $font-h-1-line-height: 60px;
 $font-h-1-text-align: left;
+$font-h-1-color: #555555;
 $font-h-1-letter-spacing: 0.2px;
 $font-h-1-font-style: normal;
-$font-h-1-font-weight: 400;
-$font-h-1-font-family: Muli Light;
+$font-h-1-font-weight: 300;
+$font-h-1-font-family: Muli;
 
 @mixin font-h-1 () {
   font-size: $font-h-1-font-size;
   line-height: $font-h-1-line-height;
   text-align: $font-h-1-text-align;
+  color: $font-h-1-color;
   letter-spacing: $font-h-1-letter-spacing;
   font-style: $font-h-1-font-style;
   font-weight: $font-h-1-font-weight;
@@ -47,15 +57,17 @@ $font-h-1-font-family: Muli Light;
 $font-h-2-font-size: 48px;
 $font-h-2-line-height: 52px;
 $font-h-2-text-align: left;
+$font-h-2-color: #555555;
 $font-h-2-letter-spacing: 0.15px;
 $font-h-2-font-style: normal;
-$font-h-2-font-weight: 400;
-$font-h-2-font-family: Muli Light;
+$font-h-2-font-weight: 300;
+$font-h-2-font-family: Muli;
 
 @mixin font-h-2 () {
   font-size: $font-h-2-font-size;
   line-height: $font-h-2-line-height;
   text-align: $font-h-2-text-align;
+  color: $font-h-2-color;
   letter-spacing: $font-h-2-letter-spacing;
   font-style: $font-h-2-font-style;
   font-weight: $font-h-2-font-weight;
@@ -65,16 +77,18 @@ $font-h-2-font-family: Muli Light;
 /* h-3 font style */
 $font-h-3-font-size: 32px;
 $font-h-3-line-height: 36px;
-$font-h-3-text-align: left;
+$font-h-3-text-align: start;
+$font-h-3-color: #555555;
 $font-h-3-letter-spacing: 0.1px;
 $font-h-3-font-style: normal;
-$font-h-3-font-weight: 400;
-$font-h-3-font-family: Muli Light;
+$font-h-3-font-weight: 300;
+$font-h-3-font-family: Muli;
 
 @mixin font-h-3 () {
   font-size: $font-h-3-font-size;
   line-height: $font-h-3-line-height;
   text-align: $font-h-3-text-align;
+  color: $font-h-3-color;
   letter-spacing: $font-h-3-letter-spacing;
   font-style: $font-h-3-font-style;
   font-weight: $font-h-3-font-weight;
@@ -85,6 +99,7 @@ $font-h-3-font-family: Muli Light;
 $font-h-5-font-size: 20px;
 $font-h-5-line-height: 24px;
 $font-h-5-text-align: left;
+$font-h-5-color: #555555;
 $font-h-5-letter-spacing: -0.15px;
 $font-h-5-font-style: normal;
 $font-h-5-font-weight: 400;
@@ -94,6 +109,7 @@ $font-h-5-font-family: Muli;
   font-size: $font-h-5-font-size;
   line-height: $font-h-5-line-height;
   text-align: $font-h-5-text-align;
+  color: $font-h-5-color;
   letter-spacing: $font-h-5-letter-spacing;
   font-style: $font-h-5-font-style;
   font-weight: $font-h-5-font-weight;
@@ -104,15 +120,17 @@ $font-h-5-font-family: Muli;
 $font-h-4-font-size: 24px;
 $font-h-4-line-height: 28px;
 $font-h-4-text-align: left;
+$font-h-4-color: #555555;
 $font-h-4-letter-spacing: -0.25px;
 $font-h-4-font-style: normal;
-$font-h-4-font-weight: 400;
-$font-h-4-font-family: Muli Light;
+$font-h-4-font-weight: 300;
+$font-h-4-font-family: Muli;
 
 @mixin font-h-4 () {
   font-size: $font-h-4-font-size;
   line-height: $font-h-4-line-height;
   text-align: $font-h-4-text-align;
+  color: $font-h-4-color;
   letter-spacing: $font-h-4-letter-spacing;
   font-style: $font-h-4-font-style;
   font-weight: $font-h-4-font-weight;
@@ -123,6 +141,7 @@ $font-h-4-font-family: Muli Light;
 $font-subtitle-1-font-size: 16px;
 $font-subtitle-1-line-height: 20px;
 $font-subtitle-1-text-align: left;
+$font-subtitle-1-color: #555555;
 $font-subtitle-1-letter-spacing: -0.1px;
 $font-subtitle-1-font-style: normal;
 $font-subtitle-1-font-weight: 400;
@@ -132,6 +151,7 @@ $font-subtitle-1-font-family: Muli;
   font-size: $font-subtitle-1-font-size;
   line-height: $font-subtitle-1-line-height;
   text-align: $font-subtitle-1-text-align;
+  color: $font-subtitle-1-color;
   letter-spacing: $font-subtitle-1-letter-spacing;
   font-style: $font-subtitle-1-font-style;
   font-weight: $font-subtitle-1-font-weight;
@@ -142,63 +162,70 @@ $font-subtitle-1-font-family: Muli;
 $font-subtitle-2-font-size: 16px;
 $font-subtitle-2-line-height: 20px;
 $font-subtitle-2-text-align: left;
+$font-subtitle-2-color: #555555;
 $font-subtitle-2-letter-spacing: -0.1px;
 $font-subtitle-2-font-style: normal;
-$font-subtitle-2-font-weight: 600;
-$font-subtitle-2-font-family: Muli SemiBold;
+$font-subtitle-2-font-weight: bold;
+$font-subtitle-2-font-family: Muli;
 
 @mixin font-subtitle-2 () {
   font-size: $font-subtitle-2-font-size;
   line-height: $font-subtitle-2-line-height;
   text-align: $font-subtitle-2-text-align;
+  color: $font-subtitle-2-color;
   letter-spacing: $font-subtitle-2-letter-spacing;
   font-style: $font-subtitle-2-font-style;
   font-weight: $font-subtitle-2-font-weight;
   font-family: $font-subtitle-2-font-family;
 }
 
-/* body-2 font style */
-$font-body-2-font-size: 14px;
-$font-body-2-line-height: 20px;
-$font-body-2-text-align: left;
-$font-body-2-letter-spacing: -0.1px;
-$font-body-2-font-style: normal;
-$font-body-2-font-weight: 400;
-$font-body-2-font-family: Muli;
-
-@mixin font-body-2 () {
-  font-size: $font-body-2-font-size;
-  line-height: $font-body-2-line-height;
-  text-align: $font-body-2-text-align;
-  letter-spacing: $font-body-2-letter-spacing;
-  font-style: $font-body-2-font-style;
-  font-weight: $font-body-2-font-weight;
-  font-family: $font-body-2-font-family;
-}
-
 /* body-1 font style */
 $font-body-1-font-size: 14px;
 $font-body-1-line-height: 20px;
-$font-body-1-text-align: left;
+$font-body-1-text-align: start;
+$font-body-1-color: #555555;
 $font-body-1-letter-spacing: -0.1px;
 $font-body-1-font-style: normal;
-$font-body-1-font-weight: 600;
-$font-body-1-font-family: Muli SemiBold;
+$font-body-1-font-weight: 400;
+$font-body-1-font-family: Muli;
 
 @mixin font-body-1 () {
   font-size: $font-body-1-font-size;
   line-height: $font-body-1-line-height;
   text-align: $font-body-1-text-align;
+  color: $font-body-1-color;
   letter-spacing: $font-body-1-letter-spacing;
   font-style: $font-body-1-font-style;
   font-weight: $font-body-1-font-weight;
   font-family: $font-body-1-font-family;
 }
 
+/* body-2 font style */
+$font-body-2-font-size: 14px;
+$font-body-2-line-height: 20px;
+$font-body-2-text-align: start;
+$font-body-2-color: #555555;
+$font-body-2-letter-spacing: -0.1px;
+$font-body-2-font-style: normal;
+$font-body-2-font-weight: bold;
+$font-body-2-font-family: Muli;
+
+@mixin font-body-2 () {
+  font-size: $font-body-2-font-size;
+  line-height: $font-body-2-line-height;
+  text-align: $font-body-2-text-align;
+  color: $font-body-2-color;
+  letter-spacing: $font-body-2-letter-spacing;
+  font-style: $font-body-2-font-style;
+  font-weight: $font-body-2-font-weight;
+  font-family: $font-body-2-font-family;
+}
+
 /* caption-1 font style */
 $font-caption-1-font-size: 12px;
 $font-caption-1-line-height: 16px;
-$font-caption-1-text-align: left;
+$font-caption-1-text-align: start;
+$font-caption-1-color: #555555;
 $font-caption-1-letter-spacing: -0.05px;
 $font-caption-1-font-style: normal;
 $font-caption-1-font-weight: 400;
@@ -208,6 +235,7 @@ $font-caption-1-font-family: Muli;
   font-size: $font-caption-1-font-size;
   line-height: $font-caption-1-line-height;
   text-align: $font-caption-1-text-align;
+  color: $font-caption-1-color;
   letter-spacing: $font-caption-1-letter-spacing;
   font-style: $font-caption-1-font-style;
   font-weight: $font-caption-1-font-weight;
@@ -218,6 +246,7 @@ $font-caption-1-font-family: Muli;
 $font-caption-2-font-size: 12px;
 $font-caption-2-line-height: 16px;
 $font-caption-2-text-align: left;
+$font-caption-2-color: #555555;
 $font-caption-2-letter-spacing: -0.05px;
 $font-caption-2-text-transform: uppercase;
 $font-caption-2-font-style: normal;
@@ -228,6 +257,7 @@ $font-caption-2-font-family: Muli;
   font-size: $font-caption-2-font-size;
   line-height: $font-caption-2-line-height;
   text-align: $font-caption-2-text-align;
+  color: $font-caption-2-color;
   letter-spacing: $font-caption-2-letter-spacing;
   text-transform: $font-caption-2-text-transform;
   font-style: $font-caption-2-font-style;
@@ -237,298 +267,21 @@ $font-caption-2-font-family: Muli;
 
 /* button-text font style */
 $font-button-text-font-size: 14px;
-$font-button-text-line-height: normal;
-$font-button-text-text-align: left;
+$font-button-text-line-height: 14px;
+$font-button-text-text-align: center;
+$font-button-text-color: #555555;
 $font-button-text-letter-spacing: -0.15px;
 $font-button-text-font-style: normal;
 $font-button-text-font-weight: 600;
-$font-button-text-font-family: Muli SemiBold;
+$font-button-text-font-family: Muli;
 
 @mixin font-button-text () {
   font-size: $font-button-text-font-size;
   line-height: $font-button-text-line-height;
   text-align: $font-button-text-text-align;
+  color: $font-button-text-color;
   letter-spacing: $font-button-text-letter-spacing;
   font-style: $font-button-text-font-style;
   font-weight: $font-button-text-font-weight;
   font-family: $font-button-text-font-family;
-}
-
-/* Button Text/Primary/Default font style */
-$font-button-text-primary-default-font-size: 14px;
-$font-button-text-primary-default-line-height: 14px;
-$font-button-text-primary-default-text-align: center;
-$font-button-text-primary-default-color: #d83d03;
-$font-button-text-primary-default-letter-spacing: -0.15px;
-$font-button-text-primary-default-font-style: normal;
-$font-button-text-primary-default-font-weight: 600;
-$font-button-text-primary-default-font-family: Muli;
-
-@mixin font-button-text-primary-default () {
-  font-size: $font-button-text-primary-default-font-size;
-  line-height: $font-button-text-primary-default-line-height;
-  text-align: $font-button-text-primary-default-text-align;
-  color: $font-button-text-primary-default-color;
-  letter-spacing: $font-button-text-primary-default-letter-spacing;
-  font-style: $font-button-text-primary-default-font-style;
-  font-weight: $font-button-text-primary-default-font-weight;
-  font-family: $font-button-text-primary-default-font-family;
-}
-
-/* Button Text/Primary/Disabled font style */
-$font-button-text-primary-disabled-font-size: 14px;
-$font-button-text-primary-disabled-line-height: 14px;
-$font-button-text-primary-disabled-text-align: center;
-$font-button-text-primary-disabled-color: rgba(216, 61, 3, 0.5);
-$font-button-text-primary-disabled-letter-spacing: -0.15px;
-$font-button-text-primary-disabled-font-style: normal;
-$font-button-text-primary-disabled-font-weight: 600;
-$font-button-text-primary-disabled-font-family: Muli;
-
-@mixin font-button-text-primary-disabled () {
-  font-size: $font-button-text-primary-disabled-font-size;
-  line-height: $font-button-text-primary-disabled-line-height;
-  text-align: $font-button-text-primary-disabled-text-align;
-  color: $font-button-text-primary-disabled-color;
-  letter-spacing: $font-button-text-primary-disabled-letter-spacing;
-  font-style: $font-button-text-primary-disabled-font-style;
-  font-weight: $font-button-text-primary-disabled-font-weight;
-  font-family: $font-button-text-primary-disabled-font-family;
-}
-
-/* Buton/Link/Disabled font style */
-$font-buton-link-disabled-font-size: 14px;
-$font-buton-link-disabled-line-height: 16px;
-$font-buton-link-disabled-text-align: left;
-$font-buton-link-disabled-color: #d83d03;
-$font-buton-link-disabled-letter-spacing: -0.1px;
-$font-buton-link-disabled-font-style: normal;
-$font-buton-link-disabled-font-weight: 600;
-$font-buton-link-disabled-font-family: Muli;
-
-@mixin font-buton-link-disabled () {
-  font-size: $font-buton-link-disabled-font-size;
-  line-height: $font-buton-link-disabled-line-height;
-  text-align: $font-buton-link-disabled-text-align;
-  color: $font-buton-link-disabled-color;
-  letter-spacing: $font-buton-link-disabled-letter-spacing;
-  font-style: $font-buton-link-disabled-font-style;
-  font-weight: $font-buton-link-disabled-font-weight;
-  font-family: $font-buton-link-disabled-font-family;
-}
-
-/* Buton/Link/Active font style */
-$font-buton-link-active-font-size: 14px;
-$font-buton-link-active-line-height: 16px;
-$font-buton-link-active-text-align: left;
-$font-buton-link-active-color: #cc3802;
-$font-buton-link-active-text-decoration: underline;
-$font-buton-link-active-letter-spacing: -0.1px;
-$font-buton-link-active-font-style: normal;
-$font-buton-link-active-font-weight: 600;
-$font-buton-link-active-font-family: Muli;
-
-@mixin font-buton-link-active () {
-  font-size: $font-buton-link-active-font-size;
-  line-height: $font-buton-link-active-line-height;
-  text-align: $font-buton-link-active-text-align;
-  color: $font-buton-link-active-color;
-  text-decoration: $font-buton-link-active-text-decoration;
-  letter-spacing: $font-buton-link-active-letter-spacing;
-  font-style: $font-buton-link-active-font-style;
-  font-weight: $font-buton-link-active-font-weight;
-  font-family: $font-buton-link-active-font-family;
-}
-
-/* Buton/Link/Hover font style */
-$font-buton-link-hover-font-size: 14px;
-$font-buton-link-hover-line-height: 16px;
-$font-buton-link-hover-text-align: left;
-$font-buton-link-hover-color: #d83d03;
-$font-buton-link-hover-text-decoration: underline;
-$font-buton-link-hover-letter-spacing: -0.1px;
-$font-buton-link-hover-font-style: normal;
-$font-buton-link-hover-font-weight: 600;
-$font-buton-link-hover-font-family: Muli;
-
-@mixin font-buton-link-hover () {
-  font-size: $font-buton-link-hover-font-size;
-  line-height: $font-buton-link-hover-line-height;
-  text-align: $font-buton-link-hover-text-align;
-  color: $font-buton-link-hover-color;
-  text-decoration: $font-buton-link-hover-text-decoration;
-  letter-spacing: $font-buton-link-hover-letter-spacing;
-  font-style: $font-buton-link-hover-font-style;
-  font-weight: $font-buton-link-hover-font-weight;
-  font-family: $font-buton-link-hover-font-family;
-}
-
-/* Buton/Link/Default font style */
-$font-buton-link-default-font-size: 14px;
-$font-buton-link-default-line-height: 16px;
-$font-buton-link-default-text-align: left;
-$font-buton-link-default-color: #d83d03;
-$font-buton-link-default-letter-spacing: -0.1px;
-$font-buton-link-default-font-style: normal;
-$font-buton-link-default-font-weight: 600;
-$font-buton-link-default-font-family: Muli;
-
-@mixin font-buton-link-default () {
-  font-size: $font-buton-link-default-font-size;
-  line-height: $font-buton-link-default-line-height;
-  text-align: $font-buton-link-default-text-align;
-  color: $font-buton-link-default-color;
-  letter-spacing: $font-buton-link-default-letter-spacing;
-  font-style: $font-buton-link-default-font-style;
-  font-weight: $font-buton-link-default-font-weight;
-  font-family: $font-buton-link-default-font-family;
-}
-
-/* Buton/Link/Focus font style */
-$font-buton-link-focus-font-size: 14px;
-$font-buton-link-focus-line-height: 16px;
-$font-buton-link-focus-text-align: left;
-$font-buton-link-focus-color: #b33102;
-$font-buton-link-focus-text-decoration: underline;
-$font-buton-link-focus-letter-spacing: -0.1px;
-$font-buton-link-focus-font-style: normal;
-$font-buton-link-focus-font-weight: 600;
-$font-buton-link-focus-font-family: Muli;
-
-@mixin font-buton-link-focus () {
-  font-size: $font-buton-link-focus-font-size;
-  line-height: $font-buton-link-focus-line-height;
-  text-align: $font-buton-link-focus-text-align;
-  color: $font-buton-link-focus-color;
-  text-decoration: $font-buton-link-focus-text-decoration;
-  letter-spacing: $font-buton-link-focus-letter-spacing;
-  font-style: $font-buton-link-focus-font-style;
-  font-weight: $font-buton-link-focus-font-weight;
-  font-family: $font-buton-link-focus-font-family;
-}
-
-/* Button Text/Ghost/Default font style */
-$font-button-text-ghost-default-font-size: 14px;
-$font-button-text-ghost-default-line-height: 14px;
-$font-button-text-ghost-default-text-align: center;
-$font-button-text-ghost-default-color: #ffffff;
-$font-button-text-ghost-default-letter-spacing: -0.15px;
-$font-button-text-ghost-default-font-style: normal;
-$font-button-text-ghost-default-font-weight: 600;
-$font-button-text-ghost-default-font-family: Muli;
-
-@mixin font-button-text-ghost-default () {
-  font-size: $font-button-text-ghost-default-font-size;
-  line-height: $font-button-text-ghost-default-line-height;
-  text-align: $font-button-text-ghost-default-text-align;
-  color: $font-button-text-ghost-default-color;
-  letter-spacing: $font-button-text-ghost-default-letter-spacing;
-  font-style: $font-button-text-ghost-default-font-style;
-  font-weight: $font-button-text-ghost-default-font-weight;
-  font-family: $font-button-text-ghost-default-font-family;
-}
-
-/* Input Field/Completed Value font style */
-$font-input-field-completed-value-font-size: 14px;
-$font-input-field-completed-value-line-height: 20px;
-$font-input-field-completed-value-text-align: start;
-$font-input-field-completed-value-color: #555555;
-$font-input-field-completed-value-letter-spacing: -0.1px;
-$font-input-field-completed-value-font-style: normal;
-$font-input-field-completed-value-font-weight: 400;
-$font-input-field-completed-value-font-family: Muli;
-
-@mixin font-input-field-completed-value () {
-  font-size: $font-input-field-completed-value-font-size;
-  line-height: $font-input-field-completed-value-line-height;
-  text-align: $font-input-field-completed-value-text-align;
-  color: $font-input-field-completed-value-color;
-  letter-spacing: $font-input-field-completed-value-letter-spacing;
-  font-style: $font-input-field-completed-value-font-style;
-  font-weight: $font-input-field-completed-value-font-weight;
-  font-family: $font-input-field-completed-value-font-family;
-}
-
-/* Input Field/Label font style */
-$font-input-field-label-font-size: 12px;
-$font-input-field-label-line-height: normal;
-$font-input-field-label-text-align: start;
-$font-input-field-label-color: #555555;
-$font-input-field-label-letter-spacing: -0.1px;
-$font-input-field-label-font-style: normal;
-$font-input-field-label-font-weight: 400;
-$font-input-field-label-font-family: Muli;
-
-@mixin font-input-field-label () {
-  font-size: $font-input-field-label-font-size;
-  line-height: $font-input-field-label-line-height;
-  text-align: $font-input-field-label-text-align;
-  color: $font-input-field-label-color;
-  letter-spacing: $font-input-field-label-letter-spacing;
-  font-style: $font-input-field-label-font-style;
-  font-weight: $font-input-field-label-font-weight;
-  font-family: $font-input-field-label-font-family;
-}
-
-/* Input Field/Label Disabled font style */
-$font-input-field-label-disabled-font-size: 12px;
-$font-input-field-label-disabled-line-height: normal;
-$font-input-field-label-disabled-text-align: start;
-$font-input-field-label-disabled-color: #555555;
-$font-input-field-label-disabled-letter-spacing: -0.1px;
-$font-input-field-label-disabled-font-style: normal;
-$font-input-field-label-disabled-font-weight: 400;
-$font-input-field-label-disabled-font-family: Muli;
-
-@mixin font-input-field-label-disabled () {
-  font-size: $font-input-field-label-disabled-font-size;
-  line-height: $font-input-field-label-disabled-line-height;
-  text-align: $font-input-field-label-disabled-text-align;
-  color: $font-input-field-label-disabled-color;
-  letter-spacing: $font-input-field-label-disabled-letter-spacing;
-  font-style: $font-input-field-label-disabled-font-style;
-  font-weight: $font-input-field-label-disabled-font-weight;
-  font-family: $font-input-field-label-disabled-font-family;
-}
-
-/* Input Field/Error Message font style */
-$font-input-field-error-message-font-size: 11px;
-$font-input-field-error-message-line-height: 16px;
-$font-input-field-error-message-text-align: start;
-$font-input-field-error-message-color: #ec0000;
-$font-input-field-error-message-letter-spacing: -0.01px;
-$font-input-field-error-message-font-style: normal;
-$font-input-field-error-message-font-weight: 400;
-$font-input-field-error-message-font-family: Muli;
-
-@mixin font-input-field-error-message () {
-  font-size: $font-input-field-error-message-font-size;
-  line-height: $font-input-field-error-message-line-height;
-  text-align: $font-input-field-error-message-text-align;
-  color: $font-input-field-error-message-color;
-  letter-spacing: $font-input-field-error-message-letter-spacing;
-  font-style: $font-input-field-error-message-font-style;
-  font-weight: $font-input-field-error-message-font-weight;
-  font-family: $font-input-field-error-message-font-family;
-}
-
-/* Input Field/Empty Text font style */
-$font-input-field-empty-text-font-size: 14px;
-$font-input-field-empty-text-line-height: 20px;
-$font-input-field-empty-text-text-align: start;
-$font-input-field-empty-text-color: #aaaaaa;
-$font-input-field-empty-text-letter-spacing: -0.1px;
-$font-input-field-empty-text-font-style: normal;
-$font-input-field-empty-text-font-weight: 400;
-$font-input-field-empty-text-font-family: Muli;
-
-@mixin font-input-field-empty-text () {
-  font-size: $font-input-field-empty-text-font-size;
-  line-height: $font-input-field-empty-text-line-height;
-  text-align: $font-input-field-empty-text-text-align;
-  color: $font-input-field-empty-text-color;
-  letter-spacing: $font-input-field-empty-text-letter-spacing;
-  font-style: $font-input-field-empty-text-font-style;
-  font-weight: $font-input-field-empty-text-font-weight;
-  font-family: $font-input-field-empty-text-font-family;
 }

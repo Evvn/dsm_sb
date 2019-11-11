@@ -1,7 +1,8 @@
 import React from "react";
 import styled from "styled-components";
+import Icon from "../../components/Icon";
 
-const DropdownContainer = styled.div``;
+const SingleSelectContainer = styled.div``;
 
 const Select = styled.select`
   height: 36px;
@@ -23,22 +24,23 @@ const Select = styled.select`
   }
 `;
 
-class Dropdown extends React.Component {
+class SingleSelect extends React.Component {
   render() {
     const { disabled, options } = this.props;
     const style = {};
     disabled && (style["opacity"] = ".5");
 
     return (
-      <DropdownContainer style={style}>
+      <SingleSelectContainer style={style}>
         <Select disabled={disabled}>
           {options.map(option => {
             return <option value={option}>{option}</option>;
           })}
         </Select>
-      </DropdownContainer>
+        <Icon icon={"chevron-down"} size="12" color={"red"} />
+      </SingleSelectContainer>
     );
   }
 }
 
-export default Dropdown;
+export default SingleSelect;

@@ -13,7 +13,7 @@ const Btn = styled.button`
   &:focus {
     outline: none;
     padding: 10px 13px;
-    border: 2px solid ${props => props.theme.colorCayenneSelected};
+    border: 2px solid ${props => props.theme.colorCayenneActive};
   }
 
   &:hover:not(:disabled) {
@@ -24,8 +24,8 @@ const Btn = styled.button`
 
   &:active {
     padding: 11px 14px;
-    background-color: ${props => props.theme.colorCayenneSelected};
-    border: 1px solid ${props => props.theme.colorCayenneSelected};
+    background-color: ${props => props.theme.colorCayenneActive};
+    border: 1px solid ${props => props.theme.colorCayenneActive};
   }
 `;
 

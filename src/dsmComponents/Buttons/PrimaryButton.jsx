@@ -12,12 +12,12 @@ const Btn = styled.button`
 
   &:focus {
     outline: none;
-    border: 2px solid ${props => props.theme.colorCayenneSelected};
+    border: 2px solid ${props => props.theme.colorPaprikaActive};
     background-color: ${props => props.theme.colorPaprika};
   }
 
   &:active {
-    background-color: ${props => props.theme.colorPaprikaSelected};
+    background-color: ${props => props.theme.colorPaprikaActive};
   }
 
   &:hover:not(:disabled) {

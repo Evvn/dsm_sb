@@ -7,18 +7,16 @@ const Btn = styled.button`
   border: none;
   transition: 200ms ease-in-out all;
 
-  &:focus {
+  &:focus,
+  &:active {
     outline: none;
     text-decoration: underline;
-    color: ${props => props.theme.colorPaprikaSelected};
+    color: ${props => props.theme.colorPaprikaActive};
   }
 
   &:hover:not(:disabled) {
     text-decoration: underline;
-  }
-
-  &:active {
-    text-decoration: underline;
+    color: ${props => props.theme.colorPaprikaHover};
   }
 `;
 

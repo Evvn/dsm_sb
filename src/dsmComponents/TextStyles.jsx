@@ -26,7 +26,7 @@ const StyleProps = styled.span`
 const StylePreview = styled.p`
   padding: 10px 0;
   margin: 30px 0;
-  border-bottom: 1px solid #e1e1e1;
+  border-top: 1px solid #e1e1e1;
 `;
 
 class TextStyles extends React.Component {

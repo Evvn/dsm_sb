@@ -25,7 +25,8 @@ const Btn = styled.button`
   &:active {
     padding: 12px 14px;
     background-color: #f9e2d9;
-    border: 1px solid ${props => props.theme.colorPaprikaHover};
+    color: ${props => props.theme.colorPaprikaActive};
+    border: 1px solid ${props => props.theme.colorPaprikaActive};
   }
 `;
 

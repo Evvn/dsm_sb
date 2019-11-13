@@ -9,7 +9,7 @@ const TextInput = styled.input`
   border: 1px solid #737373;
   border-radius: 3px;
   outline: none;
-  padding: 8px 12px;
+  padding: 8px;
   margin: 4px 0;
   transition: 200ms ease-in-out all;
 

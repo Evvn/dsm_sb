@@ -19,14 +19,14 @@ const IconCont = styled.div`
 `;
 
 class Icons extends React.Component {
-  randomColor() {
-    let letters = "0123456789ABCDEF";
-    let color = "#";
-    for (let i = 0; i < 6; i++) {
-      color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
-  }
+  // randomColor() {
+  //   let letters = "0123456789ABCDEF";
+  //   let color = "#";
+  //   for (let i = 0; i < 6; i++) {
+  //     color += letters[Math.floor(Math.random() * 16)];
+  //   }
+  //   return color;
+  // }
 
   render() {
     let icons = {};
@@ -58,44 +58,28 @@ class Icons extends React.Component {
         <h2>24px</h2>
         {icons.icons24.map(icon => (
           <IconCont>
-            <Icon
-              icon={icon.replace("-24px", "")}
-              size="24"
-              color={this.randomColor()}
-            />
+            <Icon icon={icon.replace("-24px", "")} size="24" color="#555555" />
             <p>{icon.replace("-24px", "")}</p>
           </IconCont>
         ))}
         <h2>20px</h2>
         {icons.icons20.map(icon => (
           <IconCont>
-            <Icon
-              icon={icon.replace("-20px", "")}
-              size="20"
-              color={this.randomColor()}
-            />
+            <Icon icon={icon.replace("-20px", "")} size="20" color="#555555" />
             <p>{icon.replace("-20px", "")}</p>
           </IconCont>
         ))}
         <h2>16px</h2>
         {icons.icons16.map(icon => (
           <IconCont>
-            <Icon
-              icon={icon.replace("-16px", "")}
-              size="16"
-              color={this.randomColor()}
-            />
+            <Icon icon={icon.replace("-16px", "")} size="16" color="#555555" />
             <p>{icon.replace("-16px", "")}</p>
           </IconCont>
         ))}
         <h2>12px</h2>
         {icons.icons12.map(icon => (
           <IconCont>
-            <Icon
-              icon={icon.replace("-12px", "")}
-              size="12"
-              color={this.randomColor()}
-            />
+            <Icon icon={icon.replace("-12px", "")} size="12" color="#555555" />
             <p>{icon.replace("-12px", "")}</p>
           </IconCont>
         ))}

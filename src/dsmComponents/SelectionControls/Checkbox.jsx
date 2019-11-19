@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import { ReactComponent as CheckIconSvg } from "./CheckIcon.svg";
 
 const CheckboxContainer = styled.label`
   display: inline-block;
@@ -18,10 +19,12 @@ const HiddenCheckbox = styled.input.attrs({ type: "checkbox" })`
   white-space: nowrap;
 `;
 
-const Icon = styled.svg`
-  fill: none;
-  stroke-width: 4px;
-  stroke: ${props => props.theme.colorPaprika};
+const CheckIcon = styled.div`
+  width: 10px;
+  height: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 `;
 
 const StyledCheckbox = styled.div`
@@ -33,10 +36,10 @@ const StyledCheckbox = styled.div`
   transition: 200ms ease-in-out all;
 
   ${HiddenCheckbox}:focus + & {
-    border-color: ${props => props.theme.colorCayenneSelected};
+    border-color: ${props => props.theme.colorCayenneActive};
   }
 
-  ${Icon} {
+  ${CheckIcon} {
     visibility: ${props => (props.checked ? "visible" : "hidden")};
   }
 `;
@@ -47,7 +50,8 @@ class Checkbox extends React.Component {
   };
 
   handleCheckboxChange = e => {
-    this.setState({ checked: e.target.checked });
+    const { disabled } = this.props;
+    !disabled && this.setState({ checked: e.target.checked });
   };
 
   render() {
@@ -63,9 +67,9 @@ class Checkbox extends React.Component {
           onChange={this.handleCheckboxChange}
         />
         <StyledCheckbox checked={checked} style={style}>
-          <Icon viewBox="0 0 22 38">
-            <polyline points="20 6 9 17 4 12" />
-          </Icon>
+          <CheckIcon>
+            <CheckIconSvg />
+          </CheckIcon>
         </StyledCheckbox>
       </CheckboxContainer>
     );

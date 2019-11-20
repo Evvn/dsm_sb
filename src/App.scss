@@ -56,6 +56,7 @@ button {
   @include font-button-text;
 }
 
-input {
+input,
+select {
   @include font-body-1;
 }

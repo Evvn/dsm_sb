@@ -60,12 +60,17 @@ export const Inputs = () => {
       () => (
         <Components>
           <SingleSelect
-            options={["option 1", "option 2", "option 3"]}
+            options={["Select 1", "Select 2", "Select 3"]}
             groupName={"firstGroup"}
           />
           <SingleSelect
-            options={["option 1", "option 2"]}
+            options={["Select 1", "Select 2"]}
             groupName={"secondGroup"}
+          />
+          <SingleSelect
+            options={["Select 1", "Select 2"]}
+            groupName={"thirdGroup"}
+            disabled={true}
           />
         </Components>
       ),

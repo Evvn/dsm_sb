@@ -36,11 +36,11 @@ const StyledRadio = styled.div`
   justify-content: center;
   align-items: center;
 
-  ${HiddenRadio}:focus + & {
+  ${HiddenRadio}:focus:not(:disabled) + & {
     border-color: ${props => props.theme.colorCayenneActive};
   }
 
-  ${HiddenRadio}:hover + & {
+  ${HiddenRadio}:hover:not(:disabled) + & {
     background-color: ${props => props.theme.colorPaprika5};
   }
 

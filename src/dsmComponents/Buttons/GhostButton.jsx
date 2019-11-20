@@ -17,14 +17,14 @@ const Btn = styled.button`
 
   &:hover:not(:disabled) {
     color: ${props => props.theme.colorPaprikaHover};
-    background-color: #fdf5f2;
+    background-color: ${props => props.theme.colorPaprika5};
     padding: 12px 14px;
     border: 1px solid ${props => props.theme.colorPaprikaHover};
   }
 
   &:active {
     padding: 12px 14px;
-    background-color: #f9e2d9;
+    background-color: ${props => props.theme.colorPaprika15};
     color: ${props => props.theme.colorPaprikaActive};
     border: 1px solid ${props => props.theme.colorPaprikaActive};
   }

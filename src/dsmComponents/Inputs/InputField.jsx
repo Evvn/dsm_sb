@@ -14,7 +14,7 @@ const TextInput = styled.input`
   transition: 200ms ease-in-out all;
 
   &:hover:not(:disabled) {
-    background-color: #fdf5f2;
+    background-color: ${props => props.theme.colorPaprika5};
   }
 
   &:active,

@@ -6,7 +6,7 @@ class Icon extends React.Component {
     const { icon, size, color } = this.props;
     const styles = {
       path: {
-        fill: color
+        fill: color ? color : "#555555"
       }
     };
 

@@ -35,8 +35,12 @@ const StyledCheckbox = styled.div`
   border-radius: 2px;
   transition: 200ms ease-in-out all;
 
-  ${HiddenCheckbox}:focus + & {
+  ${HiddenCheckbox}:focus:not(:disabled) + & {
     border-color: ${props => props.theme.colorCayenneActive};
+  }
+
+  ${HiddenCheckbox}:hover:not(:disabled) + & {
+    background-color: ${props => props.theme.colorPaprika5};
   }
 
   ${CheckIcon} {

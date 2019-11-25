@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>location-pin-area-12px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M6,0 C4.0335,0 2,1.496 2,4 C2,6.3 5.272,9.6635 5.645,10.04 C5.739,10.1345 5.8665,10.1875 6,10.1875 C6.1335,10.1875 6.261,10.1345 6.355,10.04 C6.728,9.6635 10,6.3 10,4 C10,1.496 7.9665,0 6,0 Z M6,5 C5.4475,5 5,4.5525 5,4 C5,3.4475 5.4475,3 6,3 C6.5525,3 7,3.4475 7,4 C7,4.5525 6.5525,5 6,5 Z M9.176,8.2695 C10.6995,8.5475 12,9.0735 12,10 C12,11.579 8.2285,12 6,12 C3.7715,12 0,11.579 0,10 C0,9.0735 1.3005,8.5475 2.8235,8.269 C3.0545,8.5865 3.288,8.8875 3.5165,9.1665 C1.989,9.387 1.0925,9.776 0.997,10.0205 C1.1365,10.3345 2.9785,10.9995 6,10.9995 C8.9625,10.9995 10.791,10.3605 10.993,9.9995 C10.8555,9.7545 9.9665,9.3815 8.4825,9.167 C8.7115,8.888 8.945,8.587 9.176,8.2695 Z" id="path-1"></path>
+        <path d="M6,0 C4.0335,0 2,1.496 2,4 C2,6.3 5.272,9.6635 5.645,10.04 C5.739,10.1345 5.8665,10.1875 6,10.1875 C6.1335,10.1875 6.261,10.1345 6.355,10.04 C6.728,9.6635 10,6.3 10,4 C10,1.496 7.9665,0 6,0 Z M2.8235,8.269 C3.0545,8.5865 3.288,8.8875 3.5165,9.1665 C1.989,9.387 1.0925,9.776 0.997,10.0205 C1.1365,10.3345 2.9785,10.9995 6,10.9995 C8.9625,10.9995 10.791,10.3605 10.993,9.9995 C10.8555,9.7545 9.9665,9.3815 8.4825,9.167 C8.7115,8.888 8.945,8.587 9.176,8.2695 C10.6995,8.5475 12,9.0735 12,10 C12,11.579 8.2285,12 6,12 L5.81083382,11.9990097 C3.56488233,11.9757176 0,11.5351389 0,10 C0,9.0735 1.3005,8.5475 2.8235,8.269 Z M6,3 C6.5525,3 7,3.4475 7,4 C7,4.5525 6.5525,5 6,5 C5.4475,5 5,4.5525 5,4 C5,3.4475 5.4475,3 6,3 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-173.000000, -4252.000000)">
-            <g id="Solo/Nucleo/12px/location-pin-area" transform="translate(173.000000, 4252.000000)">
-                <g id="position-pin">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-174.000000, -4253.000000)">
+            <g id="Solo/Nucleo/12px/location-pin-area" transform="translate(168.000000, 4247.000000)">
+                <g id="position-pin" transform="translate(6.000000, 6.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-18.000000, -18.000000)" id="Colour">
                                 <rect x="0" y="0" width="48" height="48"></rect>
                             </g>

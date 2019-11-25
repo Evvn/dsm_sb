@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="22px" height="2px" viewBox="0 0 22 2" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>subtract-24px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M21,0 L1,0 C0.4,0 0,0.4 0,1 C0,1.6 0.4,2 1,2 L21,2 C21.6,2 22,1.6 22,1 C22,0.4 21.6,0 21,0 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-609.000000, -6048.000000)">
-            <g id="Solo/Nucleo/24px/subtract" transform="translate(609.000000, 6048.000000)">
-                <g id="e-delete">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-609.000000, -6313.000000)">
+            <g id="Solo/Nucleo/24px/subtract" transform="translate(608.000000, 6302.000000)">
+                <g id="e-delete" transform="translate(1.000000, 11.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-21.000000, -31.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>

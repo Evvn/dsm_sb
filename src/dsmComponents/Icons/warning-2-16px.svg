@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
-    <title>status-alert-16px</title>
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>warning-2-16px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M15.91,13 L8.57666667,0.333333333 C8.44804454,0.140640629 8.23167678,0.024924235 8,0.024924235 C7.76832322,0.024924235 7.55195546,0.140640629 7.42333333,0.333333333 L0.09,13 C-0.0290276544,13.2061617 -0.0290928604,13.4601481 0.0898289225,13.6663709 C0.208750705,13.8725936 0.428611733,13.999756 0.666666667,14 L15.3333333,14 C15.5713883,13.999756 15.7912493,13.8725936 15.9101711,13.6663709 C16.0290929,13.4601481 16.0290277,13.2061617 15.91,13 L15.91,13 Z M8.804,4.66666667 L8.48866667,9.06666667 L7.51133333,9.06666667 L7.214,4.66666667 L8.804,4.66666667 Z M8,12 C7.45986551,12 7.022,11.5621345 7.022,11.022 C7.022,10.4818655 7.45986551,10.044 8,10.044 C8.54013449,10.044 8.978,10.4818655 8.978,11.022 C8.978,11.5621345 8.54013449,12 8,12 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-318.000000, -5657.000000)">
-            <g id="Solo/Nucleo/16px/status-alert" transform="translate(318.000000, 5657.000000)">
-                <g id="t-warning">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-319.000000, -5792.000000)">
+            <g id="Solo/Nucleo/16px/warning-2" transform="translate(315.000000, 5787.000000)">
+                <g id="t-warning" transform="translate(4.000000, 5.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <g id="Mask" fill-rule="nonzero"></g>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-24.000000, -25.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>

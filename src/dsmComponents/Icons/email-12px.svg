@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="12px" height="11px" viewBox="0 0 12 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>email-12px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M5.625,6.99285714 C5.835,7.10285714 6.165,7.10285714 6.375,6.99285714 L12,3.69285714 L12,10.2142857 C12,10.6857143 11.7,11 11.25,11 L0.75,11 C0.3,11 0,10.6857143 0,10.2142857 L0,3.69285714 L5.625,6.99285714 Z M11.25,0 C11.7,0 12,0.314285714 12,0.785714286 L12,1.96428571 L6,5.42142857 L0,1.88571429 L0,0.785714286 C0,0.314285714 0.3,0 0.75,0 L11.25,0 Z" id="path-1"></path>
+        <path d="M12,3.69285714 L12,10.2142857 C12,10.6857143 11.7,11 11.25,11 L11.25,11 L0.75,11 C0.3,11 0,10.6857143 0,10.2142857 L0,10.2142857 L0,3.69285714 L5.625,6.99285714 C5.835,7.10285714 6.165,7.10285714 6.375,6.99285714 L6.375,6.99285714 L12,3.69285714 Z M11.25,0 C11.7,0 12,0.314285714 12,0.785714286 L12,0.785714286 L12,1.96428571 L6,5.42142857 L0,1.88571429 L0,0.785714286 C0,0.314285714 0.3,0 0.75,0 L0.75,0 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-173.000000, -3100.000000)">
-            <g id="Solo/Nucleo/12px/email" transform="translate(173.000000, 3100.000000)">
-                <g id="letter">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-174.000000, -3102.000000)">
+            <g id="Solo/Nucleo/12px/email" transform="translate(168.000000, 3095.000000)">
+                <g id="letter" transform="translate(6.000000, 7.000000)">
                     <mask id="mask-2" fill="white">
                         <use xlink:href="#path-1"></use>
                     </mask>
                     <g id="Path-2" fill-rule="nonzero"></g>
-                    <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                    <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                         <g transform="translate(-18.000000, -19.642857)" id="Colour">
                             <rect x="0" y="0" width="48" height="50"></rect>
                         </g>

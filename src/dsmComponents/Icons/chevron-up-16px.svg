@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="8px" viewBox="0 0 16 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>chevron-up-16px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M15.3485226,8.7589736 L9,3.317 L2.65147737,8.7589736 C2.23204418,9.11851306 1.60056208,9.06995959 1.24102263,8.6505264 C1.24101508,8.6505176 1.24100754,8.6505088 1.241,8.6505 C0.881477892,8.23105754 0.930052935,7.59958199 1.34949539,7.24005988 C1.34950614,7.24005067 1.34951689,7.24004146 1.34952764,7.24003225 L8.349,1.241 C8.724,0.919 9.276,0.919 9.651,1.241 L16.6504724,7.24003225 C17.0699301,7.59953655 17.1185319,8.23101003 16.7590276,8.65046775 C16.7590184,8.6504785 16.7590092,8.65048925 16.759,8.6505 C16.3994751,9.06994569 15.7679947,9.1185211 15.348549,8.75899623 C15.3485402,8.75898869 15.3485314,8.75898114 15.3485226,8.7589736 Z" id="path-1"></path>
+        <path d="M15.3485226,8.7589736 L9,3.317 L9,3.317 L2.65147737,8.7589736 C2.23204418,9.11851306 1.60056208,9.06995959 1.24102263,8.6505264 C1.24101508,8.6505176 1.24100754,8.6505088 1.241,8.6505 C0.881477892,8.23105754 0.930052935,7.59958199 1.34949539,7.24005988 C1.34950614,7.24005067 1.34951689,7.24004146 1.34952764,7.24003225 L8.349,1.241 L8.349,1.241 C8.724,0.919 9.276,0.919 9.651,1.241 L16.6504724,7.24003225 C17.0699301,7.59953655 17.1185319,8.23101003 16.7590276,8.65046775 C16.7590184,8.6504785 16.7590092,8.65048925 16.759,8.6505 C16.3994751,9.06994569 15.7679947,9.1185211 15.348549,8.75899623 C15.3485402,8.75898869 15.3485314,8.75898114 15.3485226,8.7589736 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-318.000000, -1692.000000)">
-            <g id="Solo/Nucleo/16px/chevron-up" transform="translate(317.000000, 1691.000000)">
-                <g id="ctrl-up">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-319.000000, -1700.000000)">
+            <g id="Solo/Nucleo/16px/chevron-up" transform="translate(315.000000, 1692.000000)">
+                <g id="ctrl-up" transform="translate(3.000000, 7.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <g id="Mask" fill-rule="nonzero"></g>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-23.000000, -27.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>

@@ -23,11 +23,13 @@ export const Inputs = () => {
             labelText={"Label"}
             placeholder={"Value"}
             errorMessage={"error message"}
+            id={"i1"}
             disabled={false}
           />
           <InputField
             labelText={"Label"}
             placeholder={"Value"}
+            id={"i2"}
             errorMessage={"error message"}
             disabled={true}
           />
@@ -60,15 +62,21 @@ export const Inputs = () => {
       () => (
         <Components>
           <SingleSelect
+            labelText={"Label"}
             options={["Select 1", "Select 2", "Select 3"]}
+            id={"ss1"}
             groupName={"firstGroup"}
           />
           <SingleSelect
+            labelText={"Label"}
             options={["Select 1", "Select 2"]}
+            id={"ss2"}
             groupName={"secondGroup"}
           />
           <SingleSelect
+            labelText={"Label"}
             options={["Select 1", "Select 2"]}
+            id={"ss3"}
             groupName={"thirdGroup"}
             disabled={true}
           />

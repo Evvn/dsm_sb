@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>swap-horizontal-12px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M8,8 L8,6 L12,9 L8,12 L8,10 L1,10 L1,8 L8,8 Z M4,4 L4,6 L0,3 L4,0 L4,2 L11,2 L11,4 L4,4 Z" id="path-1"></path>
+        <path d="M8,6 L12,9 L8,12 L8,10 L1,10 L1,8 L8,8 L8,6 Z M4,0 L4,2 L11,2 L11,4 L4,4 L4,6 L0,3 L4,0 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-173.000000, -6171.000000)">
-            <g id="Solo/Nucleo/12px/swap-horizontal" transform="translate(173.000000, 6171.000000)">
-                <g id="swap-horizontal">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-174.000000, -6422.000000)">
+            <g id="Solo/Nucleo/12px/swap-horizontal" transform="translate(168.000000, 6416.000000)">
+                <g id="swap-horizontal" transform="translate(6.000000, 6.000000)">
                     <g id="Colour/Default-Colour-Copy-2">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <g id="Mask" fill-rule="nonzero"></g>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-26.000000, -26.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>swap-horizontal-20px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M13.75,13.75 L13.75,10 L20,15 L13.75,20 L13.75,16.25 L3.75,16.25 C3.06,16.25 2.5,15.69 2.5,15 C2.5,14.31 3.06,13.75 3.75,13.75 L13.75,13.75 Z M6.25,3.75 L16.25,3.75 C16.94,3.75 17.5,4.31 17.5,5 C17.5,5.69 16.94,6.25 16.25,6.25 L6.25,6.25 L6.25,10 L0,5 L6.25,0 L6.25,3.75 Z" id="path-1"></path>
+        <path d="M13.75,10 L20,15 L13.75,20 L13.75,16.25 L3.75,16.25 C3.06,16.25 2.5,15.69 2.5,15 L2.5,15 L2.50645752,14.8722534 C2.57050781,14.2421875 3.103125,13.75 3.75,13.75 L3.75,13.75 L13.75,13.75 L13.75,10 Z M6.25,0 L6.25,3.75 L16.25,3.75 C16.94,3.75 17.5,4.31 17.5,5 L17.5,5 L17.4935425,5.12774658 C17.4294922,5.7578125 16.896875,6.25 16.25,6.25 L16.25,6.25 L6.25,6.25 L6.25,10 L0,5 L6.25,0 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-463.000000, -6166.000000)">
-            <g id="Solo/Nucleo/20px/swap-horizontal" transform="translate(463.000000, 6166.000000)">
-                <g id="swap-horizontal">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-463.000000, -6416.000000)">
+            <g id="Solo/Nucleo/20px/swap-horizontal" transform="translate(461.000000, 6414.000000)">
+                <g transform="translate(2.000000, 2.000000)" id="swap-horizontal">
                     <g>
                         <g id="Colour/Default-Colour">
                             <mask id="mask-2" fill="white">
                                 <use xlink:href="#path-1"></use>
                             </mask>
                             <g id="Mask" fill-rule="nonzero"></g>
-                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                                 <g transform="translate(-22.000000, -22.000000)" id="Colour">
                                     <rect x="0" y="0" width="64" height="64"></rect>
                                 </g>

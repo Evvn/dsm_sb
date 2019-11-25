@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="22px" height="18px" viewBox="0 0 22 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>arrow-left-24px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M0.293,8.293 L8,0.586 L9.414,2 L3.414,8 L21,8 C21.553,8 22,8.448 22,9 C22,9.552 21.553,10 21,10 L3.414,10 L9.414,16 L8,17.414 L0.293,9.707 C-0.098,9.316 -0.098,8.684 0.293,8.293 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-609.000000, -278.000000)">
-            <g id="Solo/Nucleo/24px/arrow-left" transform="translate(609.000000, 278.000000)">
-                <g id="arrow-left">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-609.000000, -289.000000)">
+            <g id="Solo/Nucleo/24px/arrow-left" transform="translate(608.000000, 286.000000)">
+                <g id="arrow-left" transform="translate(1.000000, 3.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-21.000000, -23.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>

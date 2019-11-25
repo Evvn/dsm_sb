@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>heartrate-inactive-24px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M22.3513147,11.9966689 C19.2853794,17.2841517 12.9765126,22.4936568 12.5985206,22.7935707 C12.4170244,22.9045389 12.2115287,22.9735191 12.0000332,22.9945131 C11.7795378,23.0215053 11.5590425,22.9480264 11.3985459,22.7935707 C11.0205539,22.4936568 4.71168701,17.2841517 1.64725169,11.9966689 L22.3513147,11.9966689 Z M6.43365067,9.99774253 L0.66027252,9.99774253 C0.25228113,9.04851492 0.0272858789,8.03030709 0.000141497224,6.99860315 C-0.011713298,5.13913673 0.721771222,3.35164965 2.03724346,2.03652703 C3.35121573,0.72140441 5.13917799,-0.0103855999 6.99913874,0.000111387944 C8.87859907,0.0136075152 10.6755611,0.769390641 12.0000332,2.09950896 C13.3230053,0.769390641 15.1214673,0.0136075152 16.9994277,0.000111387944 C18.8593884,-0.0103855999 20.6458507,0.72140441 21.961323,2.03652703 C23.2767952,3.35164965 24.0102797,5.13913673 23.9998911,6.99860315 C23.9697806,8.03030709 23.7462853,9.04851492 23.3367939,9.99774253 L6.43365067,9.99774253 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-608.000000, -3733.000000)">
-            <g id="Solo/Nucleo/24px/heartrate-inactive" transform="translate(608.000000, 3733.000000)">
-                <g id="heartrate-inactive-copy-2">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-608.000000, -3742.000000)">
+            <g id="Solo/Nucleo/24px/heartrate-inactive" transform="translate(608.000000, 3741.000000)">
+                <g id="heartrate-inactive-copy-2" transform="translate(0.000000, 1.000000)">
                     <g id="heartrate-inactive">
                         <g id="Colour/Default-Colour">
                             <mask id="mask-2" fill="white">
                                 <use xlink:href="#path-1"></use>
                             </mask>
                             <use id="Mask" fill="#555555" xlink:href="#path-1"></use>
-                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                                 <g transform="translate(-20.000000, -20.000000)" id="Colour">
                                     <rect x="0" y="0" width="64" height="64"></rect>
                                 </g>

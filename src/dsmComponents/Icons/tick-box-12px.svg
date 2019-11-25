@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>tick-box-12px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M1.66666667,0.5 L10.3333333,0.5 C10.9776655,0.5 11.5,1.02233446 11.5,1.66666667 L11.5,10.3333333 C11.5,10.9776655 10.9776655,11.5 10.3333333,11.5 L1.66666667,11.5 C1.02233446,11.5 0.5,10.9776655 0.5,10.3333333 L0.5,1.66666667 C0.5,1.02233446 1.02233446,0.5 1.66666667,0.5 Z M2.14814815,2 C2.06632819,2 2,2.06632819 2,2.14814815 L2,9.85185185 C2,9.93367181 2.06632819,10 2.14814815,10 L9.85185185,10 C9.93367181,10 10,9.93367181 10,9.85185185 L10,2.14814815 C10,2.06632819 9.93367181,2 9.85185185,2 L2.14814815,2 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-173.000000, -6428.000000)">
-            <g id="Solo/Nucleo/12px/tick-box" transform="translate(173.000000, 6428.000000)">
-                <g id="shape-rectangle">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-174.000000, -6679.000000)">
+            <g id="Solo/Nucleo/12px/tick-box" transform="translate(168.000000, 6673.000000)">
+                <g id="shape-rectangle" transform="translate(6.000000, 6.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <g id="Mask" fill-rule="nonzero"></g>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-15.333333, -16.000000)" id="Colour">
                                 <rect x="0" y="0" width="43" height="43"></rect>
                             </g>

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>clock-time-20px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M9.99,0 C4.47,0 0,4.48 0,10 C0,15.52 4.47,20 9.99,20 C15.52,20 20,15.52 20,10 C20,4.48 15.52,0 9.99,0 Z M10,18 C5.58,18 2,14.42 2,10 C2,5.58 5.58,2 10,2 C14.42,2 18,5.58 18,10 C18,14.42 14.42,18 10,18 Z M9.75,5 C9.33578644,5 9,5.33578644 9,5.75 L9,11 L13.6323372,13.7794023 C13.9741743,13.9845046 14.4174614,13.8753634 14.625,13.535 C14.8296242,13.1994163 14.7234606,12.7614913 14.3878769,12.5568671 C14.3854344,12.5553778 14.3829829,12.5539032 14.3805227,12.5524434 L10.5,10.25 L10.5,5.75 C10.5,5.33578644 10.1642136,5 9.75,5 Z" id="path-1"></path>
+        <path d="M9.99,0 C4.47,0 0,4.48 0,10 C0,15.52 4.47,20 9.99,20 C15.52,20 20,15.52 20,10 C20,4.48 15.52,0 9.99,0 Z M10,18 C5.58,18 2,14.42 2,10 C2,5.58 5.58,2 10,2 C14.42,2 18,5.58 18,10 C18,14.42 14.42,18 10,18 Z M9.75,5 C9.33578644,5 9,5.33578644 9,5.75 L9,11 L9,11 L13.6323372,13.7794023 C13.9741743,13.9845046 14.4174614,13.8753634 14.625,13.535 C14.8296242,13.1994163 14.7234606,12.7614913 14.3878769,12.5568671 C14.3854344,12.5553778 14.3829829,12.5539032 14.3805227,12.5524434 L10.5,10.25 L10.5,10.25 L10.5,5.75 C10.5,5.33578644 10.1642136,5 9.75,5 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="All-Nucleo-Icons" transform="translate(-463.000000, -1814.000000)">
-            <g id="Solo/Nucleo/20px/clock-time" transform="translate(463.000000, 1814.000000)">
-                <g id="ic_access_time_24px">
+            <g id="Solo/Nucleo/20px/clock-time" transform="translate(461.000000, 1812.000000)">
+                <g transform="translate(2.000000, 2.000000)" id="ic_access_time_24px">
                     <g>
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <g id="Shape" fill-rule="nonzero"></g>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-22.000000, -22.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>

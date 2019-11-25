@@ -10,6 +10,7 @@ import Icons from "../dsmComponents/Icons";
 import { Buttons } from "./buttons.js";
 import { SelectionControls } from "./selectionControls";
 import { Inputs } from "./inputs";
+import { InformationAndBanners } from "./informationAndBanners";
 import DemoForm from "../dsmComponents/Demo";
 
 storiesOf("Vault DSM", module)
@@ -21,3 +22,4 @@ storiesOf("Vault DSM", module)
 Buttons();
 SelectionControls();
 Inputs();
+InformationAndBanners();

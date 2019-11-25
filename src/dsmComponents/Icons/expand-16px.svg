@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>expand-16px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M6,8.6 L7.4,10 L3.4,14 L7,14 L7,16 L0,16 L0,9 L2,9 L2,12.6 L6,8.6 Z M9,2 L9,1.13686838e-13 L16,1.13686838e-13 L16,7 L14,7 L14,3.4 L10,7.4 L8.6,6 L12.6,2 L9,2 Z" id="path-1"></path>
+        <path d="M6,8.6 L7.4,10 L3.4,14 L7,14 L7,16 L0,16 L0,9 L2,9 L2,12.6 L6,8.6 Z M16,1.13686838e-13 L16,7 L14,7 L14,3.4 L10,7.4 L8.6,6 L12.6,2 L9,2 L9,1.13686838e-13 L16,1.13686838e-13 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-318.000000, -3224.000000)">
-            <g id="Solo/Nucleo/16px/expand" transform="translate(318.000000, 3224.000000)">
-                <g id="fullscreen-double-74">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-319.000000, -3228.000000)">
+            <g id="Solo/Nucleo/16px/expand" transform="translate(315.000000, 3224.000000)">
+                <g id="fullscreen-double-74" transform="translate(4.000000, 4.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <g id="Mask" fill-rule="nonzero"></g>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-24.000000, -24.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>message-text-24px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M0,3 L0,24 L7.5,16.5 L21,16.5 C22.6575,16.5 24,15.1575 24,13.5 L24,3 C24,1.3425 22.6575,0 21,0 L3,0 C1.3425,0 0,1.3425 0,3 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-608.000000, -4886.000000)">
-            <g id="Solo/Nucleo/24px/message-text" transform="translate(608.000000, 4886.000000)">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-608.000000, -4894.000000)">
+            <g id="Solo/Nucleo/24px/message-text" transform="translate(608.000000, 4894.000000)">
                 <g id="customer-support">
                     <mask id="mask-2" fill="white">
                         <use xlink:href="#path-1"></use>
                     </mask>
                     <g id="Path" fill-rule="nonzero"></g>
-                    <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                    <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                         <g transform="translate(-19.000000, -24.000000)" id="Colour">
                             <rect x="0" y="0" width="64" height="64"></rect>
                         </g>

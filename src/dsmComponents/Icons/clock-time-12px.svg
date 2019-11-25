@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>clock-time-12px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M5.994,0 C2.682,0 0,2.688 0,6 C0,9.312 2.682,12 5.994,12 C9.312,12 12,9.312 12,6 C12,2.688 9.312,0 5.994,0 Z M6,10.8 C3.348,10.8 1.2,8.652 1.2,6 C1.2,3.348 3.348,1.2 6,1.2 C8.652,1.2 10.8,3.348 10.8,6 C10.8,8.652 8.652,10.8 6,10.8 Z M5.85,3 C5.60147186,3 5.4,3.20147186 5.4,3.45 L5.4,6.6 L8.17940231,8.26764139 C8.38450456,8.39070274 8.65047681,8.32521803 8.775,8.121 C8.89777452,7.91964979 8.83407633,7.65689479 8.63272613,7.53412027 C8.63126063,7.53322667 8.62978976,7.53234192 8.62831359,7.53146607 L6.3,6.15 L6.3,3.45 C6.3,3.20147186 6.09852814,3 5.85,3 Z" id="path-1"></path>
+        <path d="M5.994,0 C2.682,0 0,2.688 0,6 C0,9.312 2.682,12 5.994,12 C9.312,12 12,9.312 12,6 C12,2.688 9.312,0 5.994,0 Z M6,10.8 C3.348,10.8 1.2,8.652 1.2,6 C1.2,3.348 3.348,1.2 6,1.2 C8.652,1.2 10.8,3.348 10.8,6 C10.8,8.652 8.652,10.8 6,10.8 Z M5.85,3 C5.60147186,3 5.4,3.20147186 5.4,3.45 L5.4,6.6 L5.4,6.6 L8.17940231,8.26764139 C8.38450456,8.39070274 8.65047681,8.32521803 8.775,8.121 C8.89777452,7.91964979 8.83407633,7.65689479 8.63272613,7.53412027 C8.63126063,7.53322667 8.62978976,7.53234192 8.62831359,7.53146607 L6.3,6.15 L6.3,6.15 L6.3,3.45 C6.3,3.20147186 6.09852814,3 5.85,3 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-173.000000, -1820.000000)">
-            <g id="Solo/Nucleo/12px/clock-time" transform="translate(173.000000, 1820.000000)">
-                <g id="ic_access_time">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-174.000000, -1821.000000)">
+            <g id="Solo/Nucleo/12px/clock-time" transform="translate(168.000000, 1815.000000)">
+                <g id="ic_access_time" transform="translate(6.000000, 6.000000)">
                     <mask id="mask-2" fill="white">
                         <use xlink:href="#path-1"></use>
                     </mask>
                     <g id="Shape" fill-rule="nonzero"></g>
-                    <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                    <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                         <g transform="translate(-18.000000, -18.000000)" id="Colour">
                             <rect x="0" y="0" width="48" height="48"></rect>
                         </g>

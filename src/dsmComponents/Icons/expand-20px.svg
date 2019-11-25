@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>expand-20px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M7.5,10.75 L9.25,12.5 L4.25,17.5 L8.75,17.5 L8.75,20 L0,20 L0,11.25 L2.5,11.25 L2.5,15.75 L7.5,10.75 Z M11.25,2.5 L11.25,0 L20,0 L20,8.75 L17.5,8.75 L17.5,4.25 L12.5,9.25 L10.75,7.5 L15.75,2.5 L11.25,2.5 Z" id="path-1"></path>
+        <path d="M7.5,10.75 L9.25,12.5 L4.25,17.5 L8.75,17.5 L8.75,20 L0,20 L0,11.25 L2.5,11.25 L2.5,15.75 L7.5,10.75 Z M20,0 L20,8.75 L17.5,8.75 L17.5,4.25 L12.5,9.25 L10.75,7.5 L15.75,2.5 L11.25,2.5 L11.25,0 L20,0 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="All-Nucleo-Icons" transform="translate(-463.000000, -3222.000000)">
-            <g id="Solo/Nucleo/20px/expand" transform="translate(463.000000, 3222.000000)">
-                <g id="fullscreen-double-74">
+            <g id="Solo/Nucleo/20px/expand" transform="translate(461.000000, 3220.000000)">
+                <g transform="translate(2.000000, 2.000000)" id="fullscreen-double-74">
                     <g>
                         <g id="Colour/Default-Colour">
                             <mask id="mask-2" fill="white">
                                 <use xlink:href="#path-1"></use>
                             </mask>
                             <g id="Mask" fill-rule="nonzero"></g>
-                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                                 <g transform="translate(-22.000000, -22.000000)" id="Colour">
                                     <rect x="0" y="0" width="64" height="64"></rect>
                                 </g>

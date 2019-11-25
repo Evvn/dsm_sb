@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>check-24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.16165224,12.2928932 C6.77112794,11.9023689 6.13796297,11.9023689 5.74743867,12.2928932 C5.35691438,12.6834175 5.35691438,13.3165825 5.74743867,13.7071068 L10.111075,18.0707431 C10.5015993,18.4612674 11.1347643,18.4612674 11.5252886,18.0707431 L20.2525613,9.34347042 C20.6430856,8.95294613 20.6430856,8.31978115 20.2525613,7.92925686 C19.862037,7.53873256 19.2288721,7.53873256 18.8383478,7.92925686 L10.8181818,15.9494228 L7.16165224,12.2928932 Z M13,26 C20.1797017,26 26,20.1797017 26,13 C26,5.82029825 20.1797017,0 13,0 C5.82029825,0 0,5.82029825 0,13 C0,20.1797017 5.82029825,26 13,26 Z M13,24 C6.92486775,24 2,19.0751322 2,13 C2,6.92486775 6.92486775,2 13,2 C19.0751322,2 24,6.92486775 24,13 C24,19.0751322 19.0751322,24 13,24 Z" id="path-1"></path>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-607.000000, -6172.000000)">
+            <g id="Solo/Nucleo/24px/check" transform="translate(607.000000, 6172.000000)">
+                <g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#737373" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
+                        <g transform="translate(-20.000000, -20.000000)" id="Colour">
+                            <rect x="0" y="0" width="64" height="64"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

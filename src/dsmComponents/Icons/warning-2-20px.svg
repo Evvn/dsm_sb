@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="20px" height="17px" viewBox="0 0 20 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
-    <title>status-alert-20px</title>
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>warning-2-20px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M19.8883447,15.7835486 L10.7208949,0.375164669 C10.5601035,0.140763365 10.2896207,0 10,0 C9.71037929,0 9.43989648,0.140763365 9.27910508,0.375164669 L0.111655288,15.7835486 C-0.0371419912,16.0343343 -0.0372235056,16.3432965 0.111441423,16.5941564 C0.260106351,16.8450163 0.534956115,16.9997031 0.832550204,17 L19.1674498,17 C19.4650439,16.9997031 19.7398936,16.8450163 19.8885586,16.5941564 C20.0372235,16.3432965 20.037142,16.0343343 19.8883447,15.7835486 L19.8883447,15.7835486 Z M11.0050859,5.64645392 L10.6108855,10.9988399 L9.38911448,10.9988399 L9.01741606,5.64645392 L11.0050859,5.64645392 Z M10,14.5670973 C9.32477421,14.5670973 8.77739556,14.0344552 8.77739556,13.3774078 C8.77739556,12.7203605 9.32477421,12.1877184 10,12.1877184 C10.6752258,12.1877184 11.2226044,12.7203605 11.2226044,13.3774078 C11.2226044,14.0344552 10.6752258,14.5670973 10,14.5670973 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-463.000000, -5655.000000)">
-            <g id="Solo/Nucleo/20px/status-alert" transform="translate(463.000000, 5655.000000)">
-                <g id="t-warning">
-                    <g>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-463.000000, -5787.000000)">
+            <g id="Solo/Nucleo/20px/warning-2" transform="translate(461.000000, 5783.000000)">
+                <g id="Solo/Nucleo/20px/status-alert" transform="translate(2.000000, 4.000000)">
+                    <g id="t-warning">
                         <g id="Colour/Default-Colour">
                             <mask id="mask-2" fill="white">
                                 <use xlink:href="#path-1"></use>
                             </mask>
                             <g id="Mask" fill-rule="nonzero"></g>
-                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                                 <g transform="translate(-22.000000, -23.000000)" id="Colour">
                                     <rect x="0" y="0" width="64" height="64"></rect>
                                 </g>

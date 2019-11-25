@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>tick-box-16px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M2.5,0.75 L15.5,0.75 C16.4664983,0.75 17.25,1.53350169 17.25,2.5 L17.25,15.5 C17.25,16.4664983 16.4664983,17.25 15.5,17.25 L2.5,17.25 C1.53350169,17.25 0.75,16.4664983 0.75,15.5 L0.75,2.5 C0.75,1.53350169 1.53350169,0.75 2.5,0.75 Z M2.5,2.25 C2.36192881,2.25 2.25,2.36192881 2.25,2.5 L2.25,15.5 C2.25,15.6380712 2.36192881,15.75 2.5,15.75 L15.5,15.75 C15.6380712,15.75 15.75,15.6380712 15.75,15.5 L15.75,2.5 C15.75,2.36192881 15.6380712,2.25 15.5,2.25 L2.5,2.25 Z" id="path-1"></path>
+        <path d="M1.6969697,0 L14.3030303,0 C15.2402408,0 16,0.759759212 16,1.6969697 L16,14.3030303 C16,15.2402408 15.2402408,16 14.3030303,16 L1.6969697,16 C0.759759212,16 0,15.2402408 0,14.3030303 L0,1.6969697 C0,0.759759212 0.759759212,0 1.6969697,0 Z M2.22222222,2 C2.09949228,2 2,2.09949228 2,2.22222222 L2,13.7777778 C2,13.9005077 2.09949228,14 2.22222222,14 L13.7777778,14 C13.9005077,14 14,13.9005077 14,13.7777778 L14,2.22222222 C14,2.09949228 13.9005077,2 13.7777778,2 L2.22222222,2 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-317.000000, -6424.000000)">
-            <g id="Solo/Nucleo/16px/tick-box" transform="translate(317.000000, 6424.000000)">
-                <g id="shape-rectangle">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-319.000000, -6678.000000)">
+            <g id="Solo/Nucleo/16px/tick-box" transform="translate(315.000000, 6674.000000)">
+                <g id="shape-rectangle" transform="translate(4.000000, 4.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <g id="Mask" fill-rule="nonzero"></g>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
-                            <g transform="translate(-23.000000, -24.000000)" id="Colour">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
+                            <g transform="translate(-24.000000, -25.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>
                         </g>

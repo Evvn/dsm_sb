@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>download-16px</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <path d="M15,14 L1,14 C0.448,14 0,13.552 0,13 L0,1 C0,0.448 0.448,0 1,0 L5,0 L5,2 L2,2 L2,12 L14,12 L14,2 L11,2 L11,0 L15,0 C15.552,0 16,0.448 16,1 L16,13 C16,13.552 15.552,14 15,14 Z M9,6 L12,6 L8,10 L4,6 L7,6 L7,0 L9,0 L9,6 Z" id="path-1"></path>
+        <path d="M5,0 L5,2 L2,2 L2,12 L14,12 L14,2 L11,2 L11,0 L15,0 C15.552,0 16,0.448 16,1 L16,13 C16,13.552 15.552,14 15,14 L1,14 C0.448,14 0,13.552 0,13 L0,1 C0,0.448 0.448,0 1,0 L5,0 Z M9,0 L9,6 L12,6 L8,10 L4,6 L7,6 L7,0 L9,0 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-318.000000, -2713.000000)">
-            <g id="Solo/Nucleo/16px/download" transform="translate(318.000000, 2713.000000)">
-                <g id="version-update">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-319.000000, -2718.000000)">
+            <g id="Solo/Nucleo/16px/download" transform="translate(315.000000, 2713.000000)">
+                <g id="version-update" transform="translate(4.000000, 5.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <g id="Mask" fill-rule="nonzero"></g>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-24.000000, -25.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>location-pin-20px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M8,0 C4.08888889,0 0,2.95652174 0,7.82608696 C0,12.4347826 7.11111111,19.4782609 7.37777778,19.7391304 C7.55555556,19.9130435 7.73333333,20 8,20 C8.26666667,20 8.44444444,19.9130435 8.62222222,19.7391304 C8.88888889,19.4782609 16,12.4347826 16,7.82608696 C16,2.95652174 11.9111111,0 8,0 Z M8,10.4347826 C6.48888889,10.4347826 5.33333333,9.30434783 5.33333333,7.82608696 C5.33333333,6.34782609 6.48888889,5.2173913 8,5.2173913 C9.51111111,5.2173913 10.6666667,6.34782609 10.6666667,7.82608696 C10.6666667,9.30434783 9.51111111,10.4347826 8,10.4347826 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="All-Nucleo-Icons" transform="translate(-465.000000, -4119.000000)">
-            <g id="Solo/Nucleo/20px/location-pin" transform="translate(465.000000, 4119.000000)">
-                <g id="pin-3">
+            <g id="Solo/Nucleo/20px/location-pin" transform="translate(461.000000, 4117.000000)">
+                <g transform="translate(4.000000, 2.000000)" id="pin-3">
                     <g>
                         <g id="Colour/Default-Colour">
                             <mask id="mask-2" fill="white">
                                 <use xlink:href="#path-1"></use>
                             </mask>
                             <g id="Mask" fill-rule="nonzero"></g>
-                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                                 <g transform="translate(-24.000000, -23.000000)" id="Colour">
                                     <rect x="0" y="0" width="64" height="64"></rect>
                                 </g>

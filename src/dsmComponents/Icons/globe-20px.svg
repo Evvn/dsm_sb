@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>globe-20px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M10,0 C4.5,0 0,4.5 0,10 C0,15.5 4.5,20 10,20 C15.5,20 20,15.5 20,10 C20,4.5 15.5,0 10,0 Z M17.375,8.75 L15,8.75 C14.875,6.875 14.5,5.125 14,3.625 C15.75,4.75 17,6.625 17.375,8.75 Z M10,17.5 C9.25,17.5 7.75,15.125 7.5,11.25 L12.5,11.25 C12.25,15.125 10.75,17.5 10,17.5 Z M7.5,8.75 C7.75,4.875 9.125,2.5 10,2.5 C10.875,2.5 12.25,4.875 12.5,8.75 L7.5,8.75 Z M6.125,3.625 C5.5,5.125 5.125,6.875 5,8.75 L2.625,8.75 C3,6.625 4.25,4.75 6.125,3.625 Z M2.625,11.25 L5,11.25 C5.125,13.125 5.5,14.875 6,16.375 C4.25,15.25 3,13.375 2.625,11.25 Z M13.875,16.375 C14.5,14.875 14.75,13.125 14.875,11.25 L17.25,11.25 C17,13.375 15.75,15.25 13.875,16.375 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="All-Nucleo-Icons" transform="translate(-463.000000, -3478.000000)">
-            <g id="Solo/Nucleo/20px/globe" transform="translate(463.000000, 3478.000000)">
-                <g id="globe">
+            <g id="Solo/Nucleo/20px/globe" transform="translate(461.000000, 3476.000000)">
+                <g transform="translate(2.000000, 2.000000)" id="globe">
                     <g>
                         <g id="Colour/Default-Colour">
                             <mask id="mask-2" fill="white">
                                 <use xlink:href="#path-1"></use>
                             </mask>
                             <g id="Mask" fill-rule="nonzero"></g>
-                            <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                            <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                                 <g transform="translate(-22.000000, -22.000000)" id="Colour">
                                     <rect x="0" y="0" width="64" height="64"></rect>
                                 </g>

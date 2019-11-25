@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="18px" height="23px" viewBox="0 0 18 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
     <title>location-pin-24px</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <path d="M9,0 C4.6,0 0,3.4 0,9 C0,14.3 8,22.4 8.3,22.7 C8.5,22.9 8.7,23 9,23 C9.3,23 9.5,22.9 9.7,22.7 C10,22.4 18,14.3 18,9 C18,3.4 13.4,0 9,0 Z M9,12 C7.3,12 6,10.7 6,9 C6,7.3 7.3,6 9,6 C10.7,6 12,7.3 12,9 C12,10.7 10.7,12 9,12 Z" id="path-1"></path>
     </defs>
-    <g id="Solo-Icons-Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="All-Nucleo-Icons" transform="translate(-611.000000, -4118.000000)">
-            <g id="Solo/Nucleo/24px/location-pin" transform="translate(611.000000, 4118.000000)">
-                <g id="pin-3">
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="All-Nucleo-Icons" transform="translate(-611.000000, -4127.000000)">
+            <g id="Solo/Nucleo/24px/location-pin" transform="translate(608.000000, 4126.000000)">
+                <g id="pin-3" transform="translate(3.000000, 1.000000)">
                     <g id="Colour/Default-Colour">
                         <mask id="mask-2" fill="white">
                             <use xlink:href="#path-1"></use>
                         </mask>
                         <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
-                        <g id="Colour/Vault-Text-Grey-(Default)" mask="url(#mask-2)" fill="#555555">
+                        <g id="colour/neutral/chia" mask="url(#mask-2)" fill="#737373">
                             <g transform="translate(-23.000000, -21.000000)" id="Colour">
                                 <rect x="0" y="0" width="64" height="64"></rect>
                             </g>

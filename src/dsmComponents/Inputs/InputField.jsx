@@ -23,27 +23,26 @@ const TextInput = styled.input`
   }
 `;
 
-const InputLabel = styled.label`
+const InputLabel = styled.label.attrs({ className: "font-caption-1" })`
   display: block;
-  color: ${props => props.theme.colorCardomomText};
 `;
 
-const Error = styled.span`
+const Error = styled.span.attrs({ className: "font-caption-1" })`
   display: block;
   color: ${props => props.theme.colorCayenneAlertTermination};
 `;
 
 class InputField extends React.Component {
   render() {
-    const { disabled, labelText, errorMessage, placeholder } = this.props;
+    const { disabled, labelText, errorMessage, placeholder, id } = this.props;
     const style = {};
     disabled && (style["opacity"] = ".5");
 
     return (
       <InputContainer style={style}>
-        <InputLabel className="font-caption-1">{labelText}</InputLabel>
-        <TextInput placeholder={placeholder} disabled={disabled} />
-        <Error className="font-caption-1">{errorMessage}</Error>
+        <InputLabel for={id}>{labelText}</InputLabel>
+        <TextInput id={id} placeholder={placeholder} disabled={disabled} />
+        <Error>{errorMessage}</Error>
       </InputContainer>
     );
   }

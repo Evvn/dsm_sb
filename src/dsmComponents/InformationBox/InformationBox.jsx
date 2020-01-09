@@ -3,14 +3,10 @@ import styled from "styled-components";
 import { withTheme } from "styled-components";
 
 import CloseClear from "../Icons/close-clear-12px.svg";
-import { ReactComponent as WarningIcon } from "../Icons/warning-2-20px.svg";
+import { ReactComponent as WarningIcon } from "../Icons/warning-1-20px.svg";
 import { ReactComponent as InfoIcon } from "../Icons/information-20px.svg";
 import { ReactComponent as SuccessIcon } from "../Icons/check-20px.svg";
 import { ReactComponent as AlertIcon } from "../Icons/alert-20px.svg";
-
-// how to hack in icons from sketch
-// <div dangerouslySetInnerHTML={{ __html: add_12px }} />
-// import { add_12px } from "../Icons/icons";
 
 const InformationBoxContainer = styled.div`
   display: inline-block;
@@ -50,26 +46,20 @@ class InformationBox extends React.Component {
   render() {
     const { type, title, body, theme } = this.props;
     const boxStyle = {};
-    let iconStyle = {};
     let iconSrc = "";
-    let iconFill = "#737373";
 
     type === "warning" &&
       (boxStyle["borderColor"] = theme.colorTurmericAttentionWarning) &&
-      (iconSrc = <WarningIcon />) &&
-      (iconFill = { fill: theme.colorTurmericAttentionWarning });
+      (iconSrc = <WarningIcon className="fillTurmericAttentionWarning" />);
     type === "general" &&
       (boxStyle["borderColor"] = theme.colorJuniperInformation) &&
-      (iconSrc = <InfoIcon />) &&
-      (iconFill = { fill: theme.colorJuniperInformation });
+      (iconSrc = <InfoIcon className="fillJuniperInformation" />);
     type === "success" &&
       (boxStyle["borderColor"] = theme.colorMintSuccess) &&
-      (iconSrc = <SuccessIcon />) &&
-      (iconFill = { fill: theme.colorMintSuccess });
+      (iconSrc = <SuccessIcon className="fillMintSuccess" />);
     type === "alert" &&
       (boxStyle["borderColor"] = theme.colorCayenneAlertTermination) &&
-      (iconSrc = <AlertIcon />) &&
-      (iconFill = { fill: theme.colorCayenneAlertTermination });
+      (iconSrc = <AlertIcon className="fillCayenneAlertTermination" />);
 
     return (
       <InformationBoxContainer style={boxStyle}>

@@ -1,9 +1,10 @@
 // dsm SCSS import
-@import "_dsmStyles.scss";
+@import "./_dsmStyles.scss";
 
 * {
   box-sizing: border-box;
   font-family: sans-serif;
+  @include font-body-1;
 }
 
 // font styles
@@ -59,4 +60,46 @@ button {
 input,
 select {
   @include font-body-1;
+}
+
+.fillTurmericAttentionWarning {
+  path {
+    fill: $color-turmeric-attention-warning !important;
+    color: $color-turmeric-attention-warning !important;
+  }
+}
+
+.fillJuniperInformation {
+  path {
+    fill: $color-juniper-information !important;
+    color: $color-juniper-information !important;
+  }
+}
+
+.fillMintSuccess {
+  path {
+    fill: $color-mint-success !important;
+    color: $color-mint-success !important;
+  }
+}
+
+.fillCayenneAlertTermination {
+  path {
+    fill: $color-cayenne-alert-termination !important;
+    color: $color-cayenne-alert-termination !important;
+  }
+}
+
+.fillPeppercorn {
+  path {
+    fill: $color-peppercorn !important;
+    color: $color-peppercorn !important;
+  }
+}
+
+.fillWhite {
+  path {
+    fill: #ffffff !important;
+    color: #ffffff !important;
+  }
 }

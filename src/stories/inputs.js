@@ -6,6 +6,8 @@ import styled from "styled-components";
 import InputField from "../dsmComponents/Inputs/InputField";
 import SegmentControl from "../dsmComponents/Inputs/SegmentControl";
 import SingleSelect from "../dsmComponents/Inputs/SingleSelect";
+import MultiSelect from "../dsmComponents/Inputs/MultiSelect";
+import DateTimeInput from "../dsmComponents/Inputs/DateTimeInput";
 
 const Components = styled.div`
   & > * {
@@ -79,6 +81,62 @@ export const Inputs = () => {
             id={"ss3"}
             groupName={"thirdGroup"}
             disabled={true}
+          />
+        </Components>
+      ),
+      {
+        "in-dsm": { id: "" }
+      }
+    )
+    .add(
+      "Multi Select",
+      () => (
+        <Components>
+          <MultiSelect
+            labelText={"Label"}
+            options={[
+              "A Seed",
+              "Two Seeds",
+              "Tres Seeds",
+              "Four And",
+              "Five Seeds"
+            ]}
+            id={"ss1"}
+            groupName={"firstGroup"}
+          />
+          <MultiSelect
+            labelText={"Label"}
+            options={[
+              "A Seed",
+              "Two Seeds",
+              "Tres Seeds",
+              "Four And",
+              "Five Seeds"
+            ]}
+            id={"ss3"}
+            groupName={"thirdGroup"}
+            disabled={true}
+          />
+        </Components>
+      ),
+      {
+        "in-dsm": { id: "" }
+      }
+    )
+    .add(
+      "Date/Time Picker",
+      () => (
+        <Components>
+          <DateTimeInput
+            labelText={"Label"}
+            // options={[
+            //   "A Seed",
+            //   "Two Seeds",
+            //   "Tres Seeds",
+            //   "Four And",
+            //   "Five Seeds"
+            // ]}
+            id={"ss1"}
           />
         </Components>
       ),

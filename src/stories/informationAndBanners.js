@@ -48,7 +48,18 @@ export const InformationAndBanners = () => {
       "Banners",
       () => (
         <Components>
-          <Banner />
+          <Banner
+            type={"warning"}
+            bannerBody={"This is a system warning message banner."}
+            bannerLinkText={"More information."}
+            bannerLinkUrl={"#"}
+          />
+          <Banner
+            type={"alert"}
+            bannerBody={"This is a system warning message banner."}
+            bannerLinkText={"More information."}
+            bannerLinkUrl={"#"}
+          />
         </Components>
       ),
       {

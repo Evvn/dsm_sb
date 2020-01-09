@@ -40,7 +40,7 @@ class InputField extends React.Component {
 
     return (
       <InputContainer style={style}>
-        <InputLabel for={id}>{labelText}</InputLabel>
+        <InputLabel htmlFor={id}>{labelText}</InputLabel>
         <TextInput id={id} placeholder={placeholder} disabled={disabled} />
         <Error>{errorMessage}</Error>
       </InputContainer>
